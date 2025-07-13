@@ -27,6 +27,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | — | **CoreUI** | Admin dashboard templates | [Visit](https://coreui.io/) |
 | — | **Ripple UI** | Lightweight Tailwind components | [Visit](https://www.ripple-ui.com/) |
 | — | **MVP Blocks** | Prebuilt UI blocks to ship beautiful MVPs fast. | [Visit](https://blocks.mvp-subha.me/) |
+| — | **SHSF UI** | Motion-first UI library for those who care about details.| [Visit](https://www.shsfui.com/) |
 
 ---
 
