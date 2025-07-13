@@ -30,6 +30,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | — | **SHSF UI** | Motion-first UI library for those who care about details.| [Visit](https://www.shsfui.com/) |
 | — | **Skiper UI** | Components crafted for Modern Websites| [Visit](https://skiper-ui.com/) |
 | — | **Kibo UI** | The best way to build your website. | [Visit](https://www.kibo-ui.com/) |
+| — | **Tweakcn** | Design Your Perfect shadcn/ui Theme | [Visit](https://tweakcn.com/) |
 
 ---
 
