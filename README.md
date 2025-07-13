@@ -8,7 +8,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 
 | Preview | Name | Description | Link |
 |--------|------|-------------|------|
-| ![Animate UI](https://animate-ui.com/og-image.jpg) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
+| ![Animate UI](https://animate-ui.com/og.jpg) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
 | ![21st UI](https://21st.dev/og.png) | **21st UI** | Elegant components with minimal design | [Visit](https://21st.dev/) |
 | ![Starwind](https://starwind.dev/og.jpg) | **Starwind** | Beautiful UI templates and kits | [Visit](https://starwind.dev/) |
 | ![Smooth UI](https://www.smoothui.dev/images/og.png) | **Smooth UI** | Clean, smooth React-based UI components | [Visit](https://www.smoothui.dev/) |
