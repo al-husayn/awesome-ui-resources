@@ -26,6 +26,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | — | **ShadCN UI** | Tailwind + Radix components | [Visit](https://ui.shadcn.com/) |
 | — | **CoreUI** | Admin dashboard templates | [Visit](https://coreui.io/) |
 | — | **Ripple UI** | Lightweight Tailwind components | [Visit](https://www.ripple-ui.com/) |
+| — | **MVP Blocks** | Prebuilt UI blocks to ship beautiful MVPs fast. | [Visit](https://blocks.mvp-subha.me/) |
 
 ---
 
