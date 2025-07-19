@@ -31,6 +31,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Skiper UI](images/skipper-ui.png) | **Skiper UI** | Components crafted for Modern Websites| [Visit](https://skiper-ui.com/) |
 | ![Kibo UI](images/kibo-ui.png) | **Kibo UI** | The best way to build your website. | [Visit](https://www.kibo-ui.com/) |
 | ![Tweakcn](images/tweakcn.png) | **Tweakcn** | Design Your Perfect shadcn/ui Theme | [Visit](https://tweakcn.com/) |
+| ![Spectrum UI](images/spectrum-ui.png) | **Spectrum UI** | Instant UI Components Just Copy, Paste & Done | [Visit](https://ui.spectrumhq.in/) |
 
 ---
 
