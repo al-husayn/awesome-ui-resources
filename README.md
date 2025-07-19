@@ -31,18 +31,17 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Skiper UI](images/skipper-ui.png) | **Skiper UI** | Components crafted for Modern Websites| [Visit](https://skiper-ui.com/) |
 | ![Kibo UI](images/kibo-ui.png) | **Kibo UI** | The best way to build your website. | [Visit](https://www.kibo-ui.com/) |
 | ![Tweakcn](images/tweakcn.png) | **Tweakcn** | Design Your Perfect shadcn/ui Theme | [Visit](https://tweakcn.com/) |
+| ![AnimeJs](images/animejs.png) | **AnimeJS** | All-in-one animation engine. | [Visit](https://animejs.com/) |
 | ![Spectrum UI](images/spectrum-ui.png) | **Spectrum UI** | Instant UI Components Just Copy, Paste & Done | [Visit](https://ui.spectrumhq.in/) |
 
----
 
-## 🎨 Colors & Style Tools
+## 🎨 Colors & Style Tool
 
 | Preview | Name | Description | Link |
 |--------|------|-------------|------|
 | ![UI Colors](images/colors-ui.png) | **UI Colors** | Generate Tailwind color palettes | [Visit](https://uicolors.app/) |
 
 ---
-
 ## ✍️ UI Design Blogs & Resources
 
 | Name | Description | Link |
