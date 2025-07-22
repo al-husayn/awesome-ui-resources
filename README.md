@@ -6,7 +6,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 
 ## 🎨 UI Libraries & Component Kits
 
-| Preview | Name | Description | Link |
+| Preview |        Name        |            Description       |        Link       |
 |--------|------|-------------|------|
 | ![Animate UI](images/animate-ui.png) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
 | ![21st UI](images/21st-dev.png) | **21st UI** | Elegant components with minimal design | [Visit](https://21st.dev/) |
