@@ -36,7 +36,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Sera UI](images/sera-ui.png) | **Sera UI** | Build 🌹 stunning websites with ease | [Visit](https://seraui.seraprogrammer.com/) |
 | ![Kokonut UI](images/kokonut-ui.png) | **Kokonut UI** | Collection of stunning components. Beautiful, modern UI components built with Tailwind CSS, shadcn/ui & Motion. 100+ open-source components designed for React & Next.js. | [Visit](https://kokonutui.com/) |
 
-| ![Vue Bits](images/vue-bit.png) | **Vue Bits** |Animated Vue components for creative developers, 80+ snippets, ready to be dropped into your Vue projects. | [Visit](https://vue-bits.dev/) |
+| ![Vue Bits](images/vue-bit.png) | **Vue Bits** |Animated Vue components for creative Vue developers. | [Visit](https://vue-bits.dev/) |
 
 
 ## 🎨 Colors & Style Tool
