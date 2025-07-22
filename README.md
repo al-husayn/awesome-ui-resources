@@ -80,4 +80,4 @@ If you’d like to add screenshots yourself:
 2. Host the image on GitHub or an image CDN.
 3. Replace the `—` under the Preview column with:
    ```markdown
-   ![Name](images/preview.png)
+   ![Name](https://your-image-link.png)
