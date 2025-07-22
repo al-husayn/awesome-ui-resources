@@ -57,8 +57,8 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 
 ## 🧪 Community and Experimental
 
-| Preview | Name | Description | Link |
-|--------|------|-------------|------|
+| Preview                              | Name       | Description                  | Link                        |
+|---------------------------------------|------------|------------------------------|-----------------------------|
 | ![UIverse](images/ui-verse.png) | **UIverse** | Community-made CSS/React/Tailwind components | [Visit](https://uiverse.io/) |
 | ![Lucide](https://lucide.dev/og.png) | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
 | ![Pattern Craft](images/pattern-craft.png) | **Pattern Craft** | Beautiful backgrounds for your next big thing | [Visit](https://patterncraft.fun/) |
