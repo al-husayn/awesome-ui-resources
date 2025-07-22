@@ -8,8 +8,8 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 
 | Preview | Name | Description | Link |
 |--------|------|-------------|------|
-| ![Animate UI](images/animate-ui.png) | **Animate UI** | Pre-built, animated UI components | [Visit Animate UI](https://animate-ui.com/) |
-| ![21st UI](images/21st-dev.png) | **21st Dev UI** | Elegant components with minimal design | [Visit 21st Dev UI](https://21st.dev/) |
+| ![Animate UI](images/animate-ui.png) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
+| ![21st UI](images/21st-dev.png) | **21st UI** | Elegant components with minimal design | [Visit](https://21st.dev/) |
 | ![Starwind](images/starwind-ui.png) | **Starwind** | Beautiful UI templates and kits | [Visit](https://starwind.dev/) |
 | ![Smooth UI](images/smooth-ui.png) | **Smooth UI** | Clean, smooth React-based UI components | [Visit](https://www.smoothui.dev/) |
 | ![Reverse UI](images/reverse-ui.png) | **Reverse UI** | Interactive Tailwind-based components | [Visit](https://reverseui.com/) |
@@ -80,4 +80,4 @@ If you’d like to add screenshots yourself:
 2. Host the image on GitHub or an image CDN.
 3. Replace the `—` under the Preview column with:
    ```markdown
-   ![Name](https://your-image-link.png)
+   ![Name](images/preview.png)
