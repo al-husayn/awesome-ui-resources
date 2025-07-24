@@ -44,6 +44,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | Preview | Name | Description | Link |
 |--------|------|-------------|------|
 | ![UI Colors](images/colors-ui.png) | **UI Colors** | Generate Tailwind color palettes | [Visit](https://uicolors.app/) |
+| ![ShadcnThemes](images/shdcn-themes.png) | **ShadcnThemes** | Randomise colors to Make it yours.| [Visit](https://shadcnthemes.vercel.app/) |
 
 ---
 ## ✍️ UI Design Blogs & Resources
