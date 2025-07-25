@@ -35,6 +35,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Spectrum UI](images/spectrum-ui.png) | **Spectrum UI** | Instant UI Components Just Copy, Paste & Done | [Visit](https://ui.spectrumhq.in/) |
 | ![Sera UI](images/sera-ui.png) | **Sera UI** | Build 🌹 stunning websites with ease | [Visit](https://seraui.seraprogrammer.com/) |
 | ![Kokonut UI](images/kokonut-ui.png) | **Kokonut UI** | Collection of stunning components. Beautiful, modern UI components built with Tailwind CSS, shadcn/ui & Motion. 100+ open-source components designed for React & Next.js. | [Visit](https://kokonutui.com/) |
+| ![Stunning UI](images/stunning-ui.png) | **Stunning UI** | Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.| [Visit](https://www.stunningui.design/) |
 
 
 
