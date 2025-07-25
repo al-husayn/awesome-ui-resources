@@ -1,6 +1,6 @@
 # 🌐 UI Resources Collection
 
-A curated list of modern UI libraries, design systems, and tools to speed up your workflow and elevate your interfaces. Ideal for React, Tailwind, or general front-end projects.
+A curated list of modern UI libraries, design systems, and tools to speed up your workflow and elevate your interfaces. Ideal for React,NextJS, Vue/Nuxt, Tailwind, or general front-end projects.
 
 ---
 
@@ -56,6 +56,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Paul Lloyd’s Blog** | Design systems and digital design | [Visit](https://paulrobertlloyd.com/) |
 | **Modern React UI Libraries** | Blog on best modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
 | **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community- Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
+| **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.| [Visit](https://svgl.app/) |
 
 ---
 
@@ -86,3 +87,4 @@ If you’d like to add screenshots yourself:
 3. Replace the `—` under the Preview column with:
    ```markdown
    ![Name](https://your-image-link.png)
+
