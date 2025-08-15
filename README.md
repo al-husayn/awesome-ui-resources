@@ -37,6 +37,8 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Kokonut UI](images/kokonut-ui.png) | **Kokonut UI** | Collection of stunning components. Beautiful, modern UI components built with Tailwind CSS, shadcn/ui & Motion. 100+ open-source components designed for React & Next.js. | [Visit](https://kokonutui.com/) |
 | ![Stunning UI](images/stunning-ui.png) | **Stunning UI** | Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.| [Visit](https://www.stunningui.design/) |
 | ![Nur UI](images/nur-ui.png) | **Nur UI** | 🔥💯 Nurui is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and live component previews by v0.dev. | [Visit](https://nurui.vercel.app/) |
+| ![ScrollX UI](images/scrollX-ui.png) | **ScrollX UI** | An open source collection of beautifully animated
+components. Create stunning interfaces with handcrafted components. | [Visit](https://scrollx-ui.vercel.app/) |
 
 
 
