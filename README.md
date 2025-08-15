@@ -39,6 +39,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Nur UI](images/nur-ui.png) | **Nur UI** | 🔥💯 Nurui is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and live component previews by v0.dev. | [Visit](https://nurui.vercel.app/) |
 | ![ScrollX UI](images/scrollX-ui.png) | **ScrollX UI** | An open source collection of beautifully animated
 components. Create stunning interfaces with handcrafted components. | [Visit](https://scrollx-ui.vercel.app/) |
+| ![REUI](images/reui.png) | **REUI** | Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.| [Visit](https://reui.io/) |
 
 
 
