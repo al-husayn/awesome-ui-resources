@@ -40,6 +40,8 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![ScrollX UI](images/scrollX-ui.png) | **ScrollX UI** | An open source collection of beautifully animated
 components. Create stunning interfaces with handcrafted components. | [Visit](https://scrollx-ui.vercel.app/) |
 | ![REUI](images/reui.png) | **REUI** | Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.| [Visit](https://reui.io/) |
+| ![Taillark](images/tailark-ui.png) | **Tailark** | Modern, Responsive, pre-built Shadcn UI blocks designed for marketing websites | [Visit](https://tailark.com/mist) |
+
 
 
 
