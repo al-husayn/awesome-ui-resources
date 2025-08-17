@@ -42,6 +42,7 @@ components. Create stunning interfaces with handcrafted components. | [Visit](ht
 | ![REUI](images/reui.png) | **REUI** | Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.| [Visit](https://reui.io/) |
 | ![Taillark](images/tailark-ui.png) | **Tailark** | Modern, Responsive, pre-built Shadcn UI blocks designed for marketing websites | [Visit](https://tailark.com/) |
 | ![motion Primitives](images/motion-prinitives.png) | **Motion Primitives** | UI kit to make beautiful, animated interfaces, faster. Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers. | [Visit](https://motion-primitives.com/) |
+| ![Cult UI](images/cult-ui.png) | **Cult UI** | Free and open source components. Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. | [Visit](https://www.cult-ui.com/) |
 
 
 
