@@ -66,6 +66,7 @@ components. Create stunning interfaces with handcrafted components. | [Visit](ht
 | **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community- Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
 | **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.| [Visit](https://svgl.app/) |
 | **Components Work** | 🧩 All Components| [Visit](https://components.work/) |
+| **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form and zod within minutes.| [Visit](https://www.shadcn-form.com/) |
 ---
 
 ## 🧪 Community and Experimental
