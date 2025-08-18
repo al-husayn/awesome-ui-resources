@@ -9,6 +9,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | Preview | Name | Description | Link |
 |--------|------|-------------|------|
 | ![Animate UI](images/animate-ui.png) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
+| ![Aceternity UI](images/aceternity-ui.png) | **Aceternity UI** | Make your websites look 10x beautiful.| [Visit](https://ui.aceternity.com/) |
 | ![21st UI](images/21st-dev.png) | **21st UI** | Elegant components with minimal design | [Visit](https://21st.dev/) |
 | ![Starwind](images/starwind-ui.png) | **Starwind** | Beautiful UI templates and kits | [Visit](https://starwind.dev/) |
 | ![Smooth UI](images/smooth-ui.png) | **Smooth UI** | Clean, smooth React-based UI components | [Visit](https://www.smoothui.dev/) |
