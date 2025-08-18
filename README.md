@@ -62,6 +62,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 |------|-------------|------|
 | **ReactBits** | Patterns and practices for React UI | [Visit](https://reactbits.dev/) |
 | **Paul Lloyd’s Blog** | Design systems and digital design | [Visit](https://paulrobertlloyd.com/) |
+| **Chánh Đại** |A collection of articles on development, design, and ideas. | [Visit](https://chanhdai.com/) |
 | **Modern React UI Libraries** | Blog on best modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
 | **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community- Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
 | **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.| [Visit](https://svgl.app/) |
