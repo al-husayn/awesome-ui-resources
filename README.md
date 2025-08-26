@@ -74,6 +74,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Flyon UI](images/flyon-ui.png) | **Flyon UI** |FlyonUI is an open-source Tailwind CSS UI components library with semantic classes and powerful JS plugins. Includes blocks, templates, a Figma design system, and more… | [Visit](https://flyonui.com/) |
 | ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
 | ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
+| ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
 ---
 
 ## 🧪 Community and Experimental
