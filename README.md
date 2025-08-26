@@ -77,6 +77,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
 | ![Meraki UI](images/meraki-ui.png) | **Meraki UI** |Beautiful Tailwind CSS Components That Just Work. | [Visit](https://merakiui.com/) |
 | ![Mamba UI](images/mamba-ui.png) | **Mamba UI** |Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. | [Visit](https://mambaui.com/) |
+| ![Orion UI](images/orion-ui.png) | **Orion UI** |A simple yet powerful Vue UI framework| [Visit](https://orion-ui.org/) |
 ---
 
 ## 🧪 Community and Experimental
