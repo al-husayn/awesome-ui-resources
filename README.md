@@ -75,6 +75,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
 | ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
 | ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
+| ![Meraki UI](images/me) | **Meraki UI** |Beautiful Tailwind CSS Components That Just Work. | [Visit](https://merakiui.com/) |
 ---
 
 ## 🧪 Community and Experimental
