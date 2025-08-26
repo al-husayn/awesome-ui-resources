@@ -43,6 +43,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![Taillark](images/tailark-ui.png) | **Tailark** | Modern, Responsive, pre-built Shadcn UI blocks designed for marketing websites | [Visit](https://tailark.com/) |
 | ![motion Primitives](images/motion-prinitives.png) | **Motion Primitives** | UI kit to make beautiful, animated interfaces, faster. Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers. | [Visit](https://motion-primitives.com/) |
 | ![Cult UI](images/cult-ui.png) | **Cult UI** | Free and open source components. Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. | [Visit](https://www.cult-ui.com/) |
+| ![CrossBuild UI](images/crossbuild-ui.png) | **CrossBuild UI** | Build Mobile Apps Faster. Way Faster. Accelerate your React Native Expo development with a library of stunning, ready-to-use UI components  | [Visit](https://www.crossbuildui.com/) |
 
 
 
