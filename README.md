@@ -70,6 +70,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Components Work** | 🧩 All Components| [Visit](https://components.work/) |
 | **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form and zod within minutes.| [Visit](https://www.shadcn-form.com/) |
 | **AI Elements** | 🧩 AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. It provides pre-built components like conversations, messages and more.| [Visit](https://ai-sdk.dev/elements/overview) |
+| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. | [Visit](https://ui-orbit.vercel.app/) |
 ---
 
 ## 🧪 Community and Experimental
