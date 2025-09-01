@@ -44,6 +44,15 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![motion Primitives](images/motion-prinitives.png) | **Motion Primitives** | UI kit to make beautiful, animated interfaces, faster. Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers. | [Visit](https://motion-primitives.com/) |
 | ![Cult UI](images/cult-ui.png) | **Cult UI** | Free and open source components. Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. | [Visit](https://www.cult-ui.com/) |
 | ![CrossBuild UI](images/crossbuild-ui.png) | **CrossBuild UI** | Build Mobile Apps Faster. Way Faster. Accelerate your React Native Expo development with a library of stunning, ready-to-use UI components  | [Visit](https://www.crossbuildui.com/) |
+| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. | [Visit](https://ui-orbit.vercel.app/) |
+| ![Flyon UI](images/flyon-ui.png) | **Flyon UI** |FlyonUI is an open-source Tailwind CSS UI components library with semantic classes and powerful JS plugins. Includes blocks, templates, a Figma design system, and more… | [Visit](https://flyonui.com/) |
+| ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
+| ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
+| ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
+| ![Meraki UI](images/meraki-ui.png) | **Meraki UI** |Beautiful Tailwind CSS Components That Just Work. | [Visit](https://merakiui.com/) |
+| ![Mamba UI](images/mamba-ui.png) | **Mamba UI** |Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. | [Visit](https://mambaui.com/) |
+| ![Orion UI](images/orion-ui.png) | **Orion UI** |A simple yet powerful Vue UI framework| [Visit](https://orion-ui.org/) |
+| ![Basecoat UI](images/basecoat-ui.png) | **Basecoat UI** |A components library built with Tailwind CSS that works with any web stack.| [Visit](https://basecoatui.com/)|
 
 
 
@@ -70,15 +79,8 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Components Work** | 🧩 All Components| [Visit](https://components.work/) |
 | **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form and zod within minutes.| [Visit](https://www.shadcn-form.com/) |
 | **AI Elements** | 🧩 AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. It provides pre-built components like conversations, messages and more.| [Visit](https://ai-sdk.dev/elements/overview) |
-| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. | [Visit](https://ui-orbit.vercel.app/) |
-| ![Flyon UI](images/flyon-ui.png) | **Flyon UI** |FlyonUI is an open-source Tailwind CSS UI components library with semantic classes and powerful JS plugins. Includes blocks, templates, a Figma design system, and more… | [Visit](https://flyonui.com/) |
-| ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
-| ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
-| ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
-| ![Meraki UI](images/meraki-ui.png) | **Meraki UI** |Beautiful Tailwind CSS Components That Just Work. | [Visit](https://merakiui.com/) |
-| ![Mamba UI](images/mamba-ui.png) | **Mamba UI** |Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. | [Visit](https://mambaui.com/) |
-| ![Orion UI](images/orion-ui.png) | **Orion UI** |A simple yet powerful Vue UI framework| [Visit](https://orion-ui.org/) |
-| ![Basecoat UI](images/basecoat-ui.png) | **Basecoat UI** |A components library built with Tailwind CSS that works with any web stack.| [Visit](https://basecoatui.com/)|
+| **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. | [Visit](https://evilcharts.com/) |
+
 ---
 
 ## 🧪 Community and Experimental
