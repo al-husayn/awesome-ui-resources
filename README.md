@@ -82,7 +82,9 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. | [Visit](https://evilcharts.com/) |
  |**Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React. | [visit](https://mynaui.com/)
 | **kutty**  |🧩 Prebuilt Tailwind Components. | [Visit](https://kutty.netlify.app/)
-| **v0** | |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/)
+| **V0** | |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/)
+| **Lina Adaptive Scroll Area** |🧩 The Adaptive Scroll Area for Modern UIs.  | [Visit](https://lina.sameer.sh/)
+
 ---
 
 ## 🧪 Community and Experimental
