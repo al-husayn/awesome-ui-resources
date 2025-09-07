@@ -84,6 +84,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **kutty**  |🧩 Prebuilt Tailwind Components. | [Visit](https://kutty.netlify.app/)
 | **V0** | |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/)
 | **Lina Adaptive Scroll Area** |🧩 The Adaptive Scroll Area for Modern UIs.  | [Visit](https://lina.sameer.sh/)
+| **React Wheel Picker** |🧩iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support. | [Visit](https://react-wheel-picker.chanhdai.com/)
 
 ---
 
