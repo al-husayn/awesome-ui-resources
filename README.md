@@ -64,32 +64,33 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![UI Colors](images/colors-ui.png) | **UI Colors** | Generate Tailwind color palettes | [Visit](https://uicolors.app/) |
 | ![ShadcnThemes](images/shdcn-themes.png) | **ShadcnThemes** | Randomise colors to Make it yours.| [Visit](https://shadcnthemes.vercel.app/) |
 
----
 ## ✍️ UI Design Blogs & Resources
 
 | Name | Description | Link |
 |------|-------------|------|
 | **ReactBits** | Patterns and practices for React UI | [Visit](https://reactbits.dev/) |
 | **Paul Lloyd’s Blog** | Design systems and digital design | [Visit](https://paulrobertlloyd.com/) |
-| **Chánh Đại** |A collection of articles on development, design, and ideas. | [Visit](https://chanhdai.com/) |
+| **Chánh Đại** | A collection of articles on development, design, and ideas | [Visit](https://chanhdai.com/) |
 | **Modern React UI Libraries** | Blog on best modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
-| **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community- Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
-| **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.| [Visit](https://svgl.app/) |
-| **Components Work** | 🧩 All Components| [Visit](https://components.work/) |
-| **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form and zod within minutes.| [Visit](https://www.shadcn-form.com/) |
-| **AI Elements** | 🧩 AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. It provides pre-built components like conversations, messages and more.| [Visit](https://ai-sdk.dev/elements/overview) |
-| **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. | [Visit](https://evilcharts.com/) |
- |**Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React. | [visit](https://mynaui.com/) |
-| **kutty**  |🧩 Prebuilt Tailwind Components. | [Visit](https://kutty.netlify.app/) |
-| **V0** |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/) |
-| **Lina Adaptive Scroll Area** |🧩 The Adaptive Scroll Area for Modern UIs.  | [Visit](https://lina.sameer.sh/) |
-| **React Wheel Picker** |🧩iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support. | [Visit](https://react-wheel-picker.chanhdai.com/) |
-| **Spaceman RTA** |🧩React theme switching with smooth view transition animations, multi-theme support, and synchronized state management. |[NPM Llink](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) [Visit](https://spaceman-rta-vite.netlify.app/) |
-| **Cook** |🧩An ultra-modern, visually-rich, bento ui using Next.js, PocketBase, shadcd/ui, tailwind css, magic-ui, and zod. [Visit](https://cook.engage-dev.com/) |
-| **Shadcn Tiptap** |🧩Collection of custom extensions and toolbars for Tiptap editor.Ready to copy & paste and use with shadcn/ui components| [Visit](https://tiptap.niazmorshed.dev/) |
-| **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui Includes headings, paragraphs, lists and more.| [Visit](https://shadcn-prose.vercel.app/) |
-| **E-commerce UI** | A powerful UI library to design e-commerce web sites, online shops & marketplaces with a huge set of components and templates | [Visit](https://ecommerce-ui.com/) |
-| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. | [Visit](https://ui-orbit.vercel.app/) |
+| **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community-Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
+| **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS | [Visit](https://svgl.app/) |
+| **Components Work** | 🧩 All Components | [Visit](https://components.work/) |
+| **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form, and zod within minutes | [Visit](https://www.shadcn-form.com/) |
+| **AI Elements** | 🧩 A component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster | [Visit](https://ai-sdk.dev/elements/overview) |
+| **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts | [Visit](https://evilcharts.com/) |
+| **Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React | [Visit](https://mynaui.com/) |
+| **Kutty** | 🧩 Prebuilt Tailwind Components | [Visit](https://kutty.netlify.app/) |
+| **V0** | 🧩 Turn your ideas into real web apps with v0. Prompt. Refine. Ship | [Visit](https://v0.app/) |
+| **Lina Adaptive Scroll Area** | 🧩 The Adaptive Scroll Area for Modern UIs | [Visit](https://lina.sameer.sh/) |
+| **React Wheel Picker** | 🧩 iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support | [Visit](https://react-wheel-picker.chanhdai.com/) |
+| **Spaceman RTA** | 🧩 React theme switching with smooth view transitions, multi-theme support, and synchronized state management | [NPM](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) / [Visit](https://spaceman-rta-vite.netlify.app/) |
+| **Cook** | 🧩 An ultra-modern, visually-rich, bento UI using Next.js, PocketBase, shadcn/ui, Tailwind CSS, Magic-UI, and zod | [Visit](https://cook.engage-dev.com/) |
+| **Shadcn Tiptap** | 🧩 Collection of custom extensions and toolbars for Tiptap editor. Ready to copy & paste and use with shadcn/ui components | [Visit](https://tiptap.niazmorshed.dev/) |
+| **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui. Includes headings, paragraphs, lists, and more | [Visit](https://shadcn-prose.vercel.app/) |
+| **E-commerce UI** | A powerful UI library to design e-commerce websites, online shops & marketplaces with a huge set of components and templates | [Visit](https://ecommerce-ui.com/) |
+| **UiOrbit** | Frontend UI Library Hub 🚀 Discover, compare, and install your next React UI kit faster | [Visit](https://ui-orbit.vercel.app/) |
+
+
 ---
 
 ## 🧪 Community and Experimental
