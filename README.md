@@ -213,7 +213,10 @@ We welcome contributions to make this resource list even more valuable!
 1. Fork the repository
 2. Add your resource to the appropriate category
 3. Include a 120px wide preview image in the `images/` folder
-4. Use the format: `| <img src="images/filename.png" width="120" alt="Description"/> | Name | Description | [Visit](link) |`
+4. Use the format:  
+   ```html
+   | <img src="images/filename.png" width="120" alt="Description"/> | Name | Description | [Visit](link) |
+   ```
 5. Submit a pull request with a brief description of your addition
 
 ### Screenshot guidelines:
