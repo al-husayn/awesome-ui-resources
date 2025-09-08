@@ -223,4 +223,4 @@ We welcome contributions to make this resource list even more valuable!
 
 ---
 
-*Maintained with ❤️ by Al-Hussein*
+*Maintained with ❤️ by [Al-Hussein](https://www.al-husayn.dev/)*
