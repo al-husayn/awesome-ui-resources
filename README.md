@@ -1,123 +1,226 @@
-# 🌐 UI Resources Collection
+# 🌟 Modern UI & Design Resources Hub
 
-A curated list of modern UI libraries, design systems, and tools to speed up your workflow and elevate your interfaces. Ideal for React,NextJS, Vue/Nuxt, Tailwind, or general front-end projects.
+A beautifully organized collection of modern UI resources, thoughtfully categorized for better discovery and usability.
 
 ---
 
-## 🎨 UI Libraries & Component Kits
+## 📑 Table of Contents
+
+- [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🎨 UI Libraries \& Components](#-ui-libraries--components)
+  - [🚀 Animation \& Interaction](#-animation--interaction)
+  - [🎨 Design Systems](#-design-systems)
+  - [🌈 Color \& Styling Tools](#-color--styling-tools)
+  - [📚 Learning \& Documentation](#-learning--documentation)
+  - [🛠 Development Tools](#-development-tools)
+  - [✨ Icons \& Assets](#-icons--assets)
+  - [🌐 Community Resources](#-community-resources)
+  - [🧪 Experimental \& Cutting Edge](#-experimental--cutting-edge)
+  - [📊 Data Visualization](#-data-visualization)
+  - [🤖 AI-Powered Tools](#-ai-powered-tools)
+  - [📱 Mobile-First UI](#-mobile-first-ui)
+  - [🔧 Contribution Guide](#-contribution-guide)
+    - [How to contribute:](#how-to-contribute)
+    - [Screenshot guidelines:](#screenshot-guidelines)
+
+---
+
+## 🎨 UI Libraries & Components
+
+Modern UI component libraries and kits for building beautiful interfaces
 
 | Preview | Name | Description | Link |
-|--------|------|-------------|------|
-| ![Animate UI](images/animate-ui.png) | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
-| ![Aceternity UI](images/aceternity-ui.png) | **Aceternity UI** | Make your websites look 10x beautiful.| [Visit](https://ui.aceternity.com/) |
-| ![21st UI](images/21st-dev.png) | **21st UI** | Elegant components with minimal design | [Visit](https://21st.dev/) |
-| ![Starwind](images/starwind-ui.png) | **Starwind** | Beautiful UI templates and kits | [Visit](https://starwind.dev/) |
-| ![Smooth UI](images/smooth-ui.png) | **Smooth UI** | Clean, smooth React-based UI components | [Visit](https://www.smoothui.dev/) |
-| ![Reverse UI](images/reverse-ui.png) | **Reverse UI** | Interactive Tailwind-based components | [Visit](https://reverseui.com/) |
-| ![Hero UI](images/hero-ui.png) | **Hero UI** | Tailwind UI components for modern interfaces | [Visit](https://www.heroui.com/) |
-| ![Origin UI](images/origin.png) | **Origin UI** | Customizable components with good structure | [Visit](https://originui.com/) |
-| ![Easy UI](images/easy-ui.png) | **EasyUI** | React component library with built-in responsiveness | [Visit](https://www.easyui.pro/) |
-| ![Magic UI](images/magic-ui.png) | **Magic UI** | Animations & micro-interactions for React | [Visit](https://magicui.design/) |
-| ![Daisy UI](images/daisy-ui.png) | **DaisyUI** | Tailwind CSS components with themes | [Visit](https://daisyui.com/) |
-| ![Hyper UI](images/hyper-ui.png) | **HyperUI** | Free Tailwind CSS component snippets | [Visit](https://www.hyperui.dev/) |
-| ![Headless UI](images/headless-ui.png) | **Headless UI** | Unstyled, accessible UI primitives | [Visit](https://headlessui.com/) |
-| ![Base Web](images/base-web.png) | **BaseWeb** | Uber's design system | [Visit](https://baseweb.design/) |
-| ![Radix UI](images/radix-ui.png) | **Radix UI** | Unstyled components for custom UIs | [Visit](https://www.radix-ui.com/) |
-| ![Ant Design](images/ant-design.png) | **Ant Design** | Enterprise-grade UI system | [Visit](https://ant.design/) |
-| ![Shadcn](images/shadcn.png) | **ShadCN UI** | Tailwind + Radix components | [Visit](https://ui.shadcn.com/) |
-| ![Core UI](images/core-ui.png) | **CoreUI** | Admin dashboard templates | [Visit](https://coreui.io/) |
-| ![Ripple UI](images/ripple-ui.png) | **Ripple UI** | Lightweight Tailwind components | [Visit](https://www.ripple-ui.com/) |
-| ![MVP Blocks](images/Mvpblocks.png) | **MVP Blocks** | Prebuilt UI blocks to ship beautiful MVPs fast. | [Visit](https://blocks.mvp-subha.me/) |
-| ![SHSF UI](images/shsf-ui.png) | **SHSF UI** | Motion-first UI library for those who care about details.| [Visit](https://www.shsfui.com/) |
-| ![Skiper UI](images/skipper-ui.png) | **Skiper UI** | Components crafted for Modern Websites| [Visit](https://skiper-ui.com/) |
-| ![Kibo UI](images/kibo-ui.png) | **Kibo UI** | The best way to build your website. | [Visit](https://www.kibo-ui.com/) |
-| ![Tweakcn](images/tweakcn.png) | **Tweakcn** | Design Your Perfect shadcn/ui Theme | [Visit](https://tweakcn.com/) |
-| ![AnimeJs](images/animejs.png) | **AnimeJS** | All-in-one animation engine. | [Visit](https://animejs.com/) |
-| ![Spectrum UI](images/spectrum-ui.png) | **Spectrum UI** | Instant UI Components Just Copy, Paste & Done | [Visit](https://ui.spectrumhq.in/) |
-| ![Sera UI](images/sera-ui.png) | **Sera UI** | Build 🌹 stunning websites with ease | [Visit](https://seraui.seraprogrammer.com/) |
-| ![Kokonut UI](images/kokonut-ui.png) | **Kokonut UI** | Collection of stunning components. Beautiful, modern UI components built with Tailwind CSS, shadcn/ui & Motion. 100+ open-source components designed for React & Next.js. | [Visit](https://kokonutui.com/) |
-| ![Stunning UI](images/stunning-ui.png) | **Stunning UI** | Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.| [Visit](https://www.stunningui.design/) |
-| ![Nur UI](images/nur-ui.png) | **Nur UI** | 🔥💯 Nurui is a modern React and Next.js based UI component library. It streamlines front-end development with powerful features like CLI scaffolding, automatic TypeScript-to-JavaScript conversion, and live component previews by v0.dev. | [Visit](https://nurui.vercel.app/) |
-| ![ScrollX UI](images/scrollX-ui.png) | **ScrollX UI** | An open source collection of beautifully animated components. Create stunning interfaces with handcrafted components. | [Visit](https://scrollx-ui.vercel.app/) |
-| ![REUI](images/reui.png) | **REUI** | Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.| [Visit](https://reui.io/) |
-| ![Taillark](images/tailark-ui.png) | **Tailark** | Modern, Responsive, pre-built Shadcn UI blocks designed for marketing websites | [Visit](https://tailark.com/) |
-| ![motion Primitives](images/motion-prinitives.png) | **Motion Primitives** | UI kit to make beautiful, animated interfaces, faster. Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers. | [Visit](https://motion-primitives.com/) |
-| ![Cult UI](images/cult-ui.png) | **Cult UI** | Free and open source components. Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. | [Visit](https://www.cult-ui.com/) |
-| ![CrossBuild UI](images/crossbuild-ui.png) | **CrossBuild UI** | Build Mobile Apps Faster. Way Faster. Accelerate your React Native Expo development with a library of stunning, ready-to-use UI components  | [Visit](https://www.crossbuildui.com/) |
-| ![Flyon UI](images/flyon-ui.png) | **Flyon UI** |FlyonUI is an open-source Tailwind CSS UI components library with semantic classes and powerful JS plugins. Includes blocks, templates, a Figma design system, and more… | [Visit](https://flyonui.com/) |
-| ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
-| ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
-| ![TailGrids](images/tailgrids.png) | **TailGrids** |Tailwind CSS UI Components, Blocks and Templates | [Visit](https://tailgrids.com/) |
-| ![Meraki UI](images/meraki-ui.png) | **Meraki UI** |Beautiful Tailwind CSS Components That Just Work. | [Visit](https://merakiui.com/) |
-| ![Mamba UI](images/mamba-ui.png) | **Mamba UI** |Mamba UI is a free, open-source collection of UI components and templates based on Tailwind CSS. | [Visit](https://mambaui.com/) |
-| ![Orion UI](images/orion-ui.png) | **Orion UI** |A simple yet powerful Vue UI framework| [Visit](https://orion-ui.org/) |
-| ![Basecoat UI](images/basecoat-ui.png) | **Basecoat UI** |A components library built with Tailwind CSS that works with any web stack.| [Visit](https://basecoatui.com/)|
+| :--- | :--- | :--- | :--- |
+| <img src="images/aceternity-ui.png" width="120" alt="Aceternity UI"/> | **Aceternity UI** | Beautiful, modern UI templates and components | [Visit](https://ui.aceternity.com/) |
+| <img src="images/21st-dev.png" width="120" alt="21st UI"/> | **21st UI** | Elegant components with minimal aesthetic | [Visit](https://21st.dev/) |
+| <img src="images/starwind-ui.png" width="120" alt="Starwind"/> | **Starwind** | UI templates and kits for modern interfaces | [Visit](https://starwind.dev/) |
+| <img src="images/smooth-ui.png" width="120" alt="Smooth UI"/> | **Smooth UI** | Clean React-based UI components | [Visit](https://www.smoothui.dev/) |
+| <img src="images/reverse-ui.png" width="120" alt="Reverse UI"/> | **Reverse UI** | Interactive Tailwind components and patterns | [Visit](https://reverseui.com/) |
+| <img src="images/hero-ui.png" width="120" alt="Hero UI"/> | **Hero UI** | Tailwind-friendly UI components | [Visit](https://www.heroui.com/) |
+| <img src="images/origin.png" width="120" alt="Origin UI"/> | **Origin UI** | Customizable components with pragmatic structure | [Visit](https://originui.com/) |
+| <img src="images/easy-ui.png" width="120" alt="EasyUI"/> | **EasyUI** | Responsive React component library | [Visit](https://www.easyui.pro/) |
+| <img src="images/daisy-ui.png" width="120" alt="DaisyUI"/> | **DaisyUI** | Tailwind CSS components with built-in themes | [Visit](https://daisyui.com/) |
+| <img src="images/hyper-ui.png" width="120" alt="Hyper UI"/> | **HyperUI** | Free Tailwind component snippets and patterns | [Visit](https://www.hyperui.dev/) |
+| <img src="images/ripple-ui.png" width="120" alt="Ripple UI"/> | **Ripple UI** | Lightweight Tailwind components | [Visit](https://www.ripple-ui.com/) |
+| <img src="images/Mvpblocks.png" width="120" alt="MVP Blocks"/> | **MVP Blocks** | Prebuilt UI blocks for fast MVP shipping | [Visit](https://blocks.mvp-subha.me/) |
+| <img src="images/shsf-ui.png" width="120" alt="SHSF UI"/> | **SHSF UI** | Motion-first UI library with attention to detail | [Visit](https://www.shsfui.com/) |
+| <img src="images/skipper-ui.png" width="120" alt="Skiper UI"/> | **Skiper UI** | Components tailored for modern websites | [Visit](https://skiper-ui.com/) |
+| <img src="images/kibo-ui.png" width="120" alt="Kibo UI"/> | **Kibo UI** | Tools to build responsive websites quickly | [Visit](https://www.kibo-ui.com/) |
+| <img src="images/spectrum-ui.png" width="120" alt="Spectrum UI"/> | **Spectrum UI** | Copy-paste UI components for instant use | [Visit](https://ui.spectrumhq.in/) |
+| <img src="images/sera-ui.png" width="120" alt="Sera UI"/> | **Sera UI** | Build beautiful websites with a simple toolkit | [Visit](https://seraui.seraprogrammer.com/) |
+| <img src="images/kokonut-ui.png" width="120" alt="Kokonut UI"/> | **Kokonut UI** | 100+ Tailwind & shadcn components for React/Next.js | [Visit](https://kokonutui.com/) |
+| <img src="images/stunning-ui.png" width="120" alt="Stunning UI"/> | **Stunning UI** | Tailwind components for Vue and Nuxt | [Visit](https://www.stunningui.design/) |
+| <img src="images/nur-ui.png" width="120" alt="Nur UI"/> | **Nur UI** | Modern React/Next UI with CLI scaffolding | [Visit](https://nurui.vercel.app/) |
+| <img src="images/scrollX-ui.png" width="120" alt="ScrollX UI"/> | **ScrollX UI** | Animated, handcrafted UI components | [Visit](https://scrollx-ui.vercel.app/) |
+| <img src="images/reui.png" width="120" alt="REUI"/> | **REUI** | Open-source animated components that pair with shadcn | [Visit](https://reui.io/) |
+| <img src="images/tailark-ui.png" width="120" alt="Tailark"/> | **Tailark** | Shadcn UI blocks for marketing websites | [Visit](https://tailark.com/) |
+| <img src="images/cult-ui.png" width="120" alt="Cult UI"/> | **Cult UI** | Shadcn-compatible blocks and Next.js templates | [Visit](https://www.cult-ui.com/) |
+| <img src="images/flyon-ui.png" width="120" alt="Flyon UI"/> | **Flyon UI** | Tailwind CSS components with semantic classes | [Visit](https://flyonui.com/) |
+| <img src="images/Flowbite.png" width="120" alt="Flowbite"/> | **Flowbite** | Components built on top of Tailwind CSS | [Visit](https://flowbite.com/) |
+| <img src="images/preline-ui.png" width="120" alt="Preline UI"/> | **Preline UI** | Tailwind crafted UI components and plugins | [Visit](https://preline.co/) |
+| <img src="images/tailgrids.png" width="120" alt="TailGrids"/> | **TailGrids** | Tailwind components, blocks, and templates | [Visit](https://tailgrids.com/) |
+| <img src="images/meraki-ui.png" width="120" alt="Meraki UI"/> | **Meraki UI** | Ready-made Tailwind components | [Visit](https://merakiui.com/) |
+| <img src="images/mamba-ui.png" width="120" alt="Mamba UI"/> | **Mamba UI** | Open-source Tailwind components and templates | [Visit](https://mambaui.com/) |
+| <img src="images/orion-ui.png" width="120" alt="Orion UI"/> | **Orion UI** | Lightweight Vue UI framework | [Visit](https://orion-ui.org/) |
+| <img src="images/basecoat-ui.png" width="120" alt="Basecoat UI"/> | **Basecoat UI** | Tailwind-based components that work with many stacks | [Visit](https://basecoatui.com/) |
+| <img src="images/kutty.png" width="120" alt="Kutty"/> | **Kutty** | Prebuilt Tailwind components and patterns | [Visit](https://kutty.netlify.app/) |
+| <img src="images/mynaui.png" width="120" alt="Myna UI"/> | **Myna UI** | Tailwind + shadcn UI kit for Figma and React | [Visit](https://mynaui.com/) |
+| <img src="images/lina-scroll.png" width="120" alt="Lina Adaptive Scroll Area"/> | **Lina Adaptive Scroll Area** | Adaptive scroll area component for modern UIs | [Visit](https://lina.sameer.sh/) |
+| <img src="images/react-wheel-picker.png" width="120" alt="React Wheel Picker"/> | **React Wheel Picker** | iOS-like wheel picker for React with smooth inertia | [Visit](https://react-wheel-picker.chanhdai.com/) |
+| <img src="images/cook.png" width="120" alt="Cook"/> | **Cook** | Ultra-modern bento UI using Next.js, PocketBase, shadcn/ui | [Visit](https://cook.engage-dev.com/) |
+| <img src="images/ecommerce-ui.png" width="120" alt="E-commerce UI"/> | **E-commerce UI** | UI library tailored for e-commerce sites & marketplaces | [Visit](https://ecommerce-ui.com/) |
 
+---
 
+## 🚀 Animation & Interaction
 
-
-
-## 🎨 Colors & Style Tool
+Libraries and tools for creating engaging animations and interactions
 
 | Preview | Name | Description | Link |
-|--------|------|-------------|------|
-| ![UI Colors](images/colors-ui.png) | **UI Colors** | Generate Tailwind color palettes | [Visit](https://uicolors.app/) |
-| ![ShadcnThemes](images/shdcn-themes.png) | **ShadcnThemes** | Randomise colors to Make it yours.| [Visit](https://shadcnthemes.vercel.app/) |
+| :--- | :--- | :--- | :--- |
+| <img src="images/animate-ui.png" width="120" alt="Animate UI"/> | **Animate UI** | Pre-built, animated UI components | [Visit](https://animate-ui.com/) |
+| <img src="images/magic-ui.png" width="120" alt="Magic UI"/> | **Magic UI** | Animations and micro-interactions for React | [Visit](https://magicui.design/) |
+| <img src="images/animejs.png" width="120" alt="AnimeJS"/> | **AnimeJS** | All-in-one JavaScript animation engine | [Visit](https://animejs.com/) |
+| <img src="images/motion-prinitives.png" width="120" alt="Motion Primitives"/> | **Motion Primitives** | Motion-first primitives and kit for interfaces | [Visit](https://motion-primitives.com/) |
+| <img src="images/tailwind-animations.png" width="120" alt="Tailwind CSS Animations"/> | **Tailwind CSS Animations** | Community-powered Tailwind animation plugin/docs | [Visit](https://tailwindcss-animations.vercel.app) |
 
-## ✍️ UI Design Blogs & Resources
+---
+
+## 🎨 Design Systems
+
+Comprehensive design systems and foundational UI frameworks
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/headless-ui.png" width="120" alt="Headless UI"/> | **Headless UI** | Unstyled, accessible primitives for React/Vue | [Visit](https://headlessui.com/) |
+| <img src="images/base-web.png" width="120" alt="Base Web"/> | **Base Web** | Uber's design system and component library | [Visit](https://baseweb.design/) |
+| <img src="images/radix-ui.png" width="120" alt="Radix UI"/> | **Radix UI** | Unstyled, accessible primitives for building systems | [Visit](https://www.radix-ui.com/) |
+| <img src="images/ant-design.png" width="120" alt="Ant Design"/> | **Ant Design** | Enterprise-grade React UI system | [Visit](https://ant.design/) |
+| <img src="images/shadcn.png" width="120" alt="ShadCN UI"/> | **ShadCN UI** | Tailwind + Radix based components and blocks | [Visit](https://ui.shadcn.com/) |
+| <img src="images/core-ui.png" width="120" alt="CoreUI"/> | **CoreUI** | Admin dashboard components and templates | [Visit](https://coreui.io/) |
+
+---
+
+## 🌈 Color & Styling Tools
+
+Tools for creating beautiful color palettes and styling systems
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/colors-ui.png" width="120" alt="UI Colors"/> | **UI Colors** | Generate Tailwind color palettes and tones | [Visit](https://uicolors.app/) |
+| <img src="images/shdcn-themes.png" width="120" alt="ShadcnThemes"/> | **ShadcnThemes** | Randomise and tailor shadcn themes | [Visit](https://shadcnthemes.vercel.app/) |
+| <img src="images/tweakcn.png" width="120" alt="Tweakcn"/> | **Tweakcn** | Theme and style tools for shadcn/ui | [Visit](https://tweakcn.com/) |
+
+---
+
+## 📚 Learning & Documentation
+
+Educational resources, blogs, and documentation for UI design
 
 | Name | Description | Link |
-|------|-------------|------|
+| :--- | :--- | :--- |
 | **ReactBits** | Patterns and practices for React UI | [Visit](https://reactbits.dev/) |
-| **Paul Lloyd’s Blog** | Design systems and digital design | [Visit](https://paulrobertlloyd.com/) |
-| **Chánh Đại** | A collection of articles on development, design, and ideas | [Visit](https://chanhdai.com/) |
-| **Modern React UI Libraries** | Blog on best modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
-| **Tailwind CSS Animations** | Tailwind CSS Animations. Plugin: Community-Powered Animation Magic | [Visit](https://tailwindcss-animations.vercel.app) |
-| **SVGL** | 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS | [Visit](https://svgl.app/) |
-| **Components Work** | 🧩 All Components | [Visit](https://components.work/) |
-| **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form, and zod within minutes | [Visit](https://www.shadcn-form.com/) |
-| **AI Elements** | 🧩 A component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster | [Visit](https://ai-sdk.dev/elements/overview) |
-| **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts | [Visit](https://evilcharts.com/) |
-| **Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React | [Visit](https://mynaui.com/) |
-| **Kutty** | 🧩 Prebuilt Tailwind Components | [Visit](https://kutty.netlify.app/) |
-| **V0** | 🧩 Turn your ideas into real web apps with v0. Prompt. Refine. Ship | [Visit](https://v0.app/) |
-| **Lina Adaptive Scroll Area** | 🧩 The Adaptive Scroll Area for Modern UIs | [Visit](https://lina.sameer.sh/) |
-| **React Wheel Picker** | 🧩 iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support | [Visit](https://react-wheel-picker.chanhdai.com/) |
-| **Spaceman RTA** | 🧩 React theme switching with smooth view transitions, multi-theme support, and synchronized state management | [NPM](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) / [Visit](https://spaceman-rta-vite.netlify.app/) |
-| **Cook** | 🧩 An ultra-modern, visually-rich, bento UI using Next.js, PocketBase, shadcn/ui, Tailwind CSS, Magic-UI, and zod | [Visit](https://cook.engage-dev.com/) |
-| **Shadcn Tiptap** | 🧩 Collection of custom extensions and toolbars for Tiptap editor. Ready to copy & paste and use with shadcn/ui components | [Visit](https://tiptap.niazmorshed.dev/) |
-| **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui. Includes headings, paragraphs, lists, and more | [Visit](https://shadcn-prose.vercel.app/) |
-| **E-commerce UI** | A powerful UI library to design e-commerce websites, online shops & marketplaces with a huge set of components and templates | [Visit](https://ecommerce-ui.com/) |
-| **UiOrbit** | Frontend UI Library Hub 🚀 Discover, compare, and install your next React UI kit faster | [Visit](https://ui-orbit.vercel.app/) |
-
+| **Paul Lloyd's Blog** | Design systems and digital design | [Visit](https://paulrobertlloyd.com/) |
+| **Chánh Đại** | Articles on development, design, and ideas | [Visit](https://chanhdai.com/) |
+| **Modern React UI Libraries** | Blog on modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
+| **Components Work** | A directory of components and patterns | [Visit](https://components.work/) |
+| **UiOrbit** | Hub to discover and compare frontend UI libraries | [Visit](https://ui-orbit.vercel.app/) |
 
 ---
 
-## 🧪 Community and Experimental
+## 🛠 Development Tools
+
+Tools and utilities to enhance your development workflow
 
 | Preview | Name | Description | Link |
-|--------|------|-------------|------|
-| ![UIverse](images/ui-verse.png) | **UIverse** | Community-made CSS/React/Tailwind components | [Visit](https://uiverse.io/) |
-| ![Lucide](https://lucide.dev/og.png) | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
-| ![Pattern Craft](images/pattern-craft.png) | **Pattern Craft** | Beautiful backgrounds for your next big thing | [Visit](https://patterncraft.fun/) |
-| ![Vue Bits](images/vue-bit.png) | **Vue Bits** | Animated Vue components for creative Vue developers. | [Visit](https://vue-bits.dev/) |
+| :--- | :--- | :--- | :--- |
+| <img src="images/shadcn-form.png" width="120" alt="Shadcn Forms"/> | **Shadcn Forms** | Build forms quickly with shadcn + react-hook-form + zod | [Visit](https://www.shadcn-form.com/) |
+| <img src="images/shadcn-tiptap.png" width="120" alt="Shadcn Tiptap"/> | **Shadcn Tiptap** | Custom extensions and toolbars for the Tiptap editor | [Visit](https://tiptap.niazmorshed.dev/) |
+| <img src="images/shadcn-prose.png" width="120" alt="shadcn-prose"/> | **shadcn-prose** | Typographic plugin designed for shadcn/ui | [Visit](https://shadcn-prose.vercel.app/) |
+| <img src="images/spaceman-rta.png" width="120" alt="Spaceman RTA"/> | **Spaceman RTA** | Theme switching with smooth view transitions | [NPM](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) / [Visit](https://spaceman-rta-vite.netlify.app/) |
 
 ---
 
-## 🧰 How to Contribute
+## ✨ Icons & Assets
 
-- **Fork this repo** and update the Markdown file.
-- Add new tools with preview images if available.
-- Open a PR or issue with suggestions.
+Collections of icons, SVGs, and design assets
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="[images/lucide.png](https://lucide.dev/og.png)" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
+| <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
+| <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
 
 ---
 
-## 📁 Optional Screenshots Placeholder Instructions
+## 🌐 Community Resources
 
-If you’d like to add screenshots yourself:
-1. Save a screenshot (ideally 1200x630 for GitHub preview).
-2. Host the image on GitHub or an image CDN.
-3. Replace the `—` under the Preview column with:
-   ```markdown
-   ![Name](https://your-image-link.png)
+Community-driven projects and collaborative resources
 
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/ui-verse.png" width="120" alt="UIverse"/> | **UIverse** | Community-made CSS/React/Tailwind components | [Visit](https://uiverse.io/) |
+| <img src="images/vue-bit.png" width="120" alt="Vue Bits"/> | **Vue Bits** | Animated Vue components and bits | [Visit](https://vue-bits.dev/) |
+
+---
+
+## 🧪 Experimental & Cutting Edge
+
+Innovative and forward-thinking UI projects
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/v0.png" width="120" alt="V0"/> | **V0** | Turn prompts into web apps with v0 platform | [Visit](https://v0.app/) |
+
+---
+
+## 📊 Data Visualization
+
+Tools and libraries for creating beautiful data visualizations
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/evil-charts.png" width="120" alt="Evil Charts"/> | **Evil Charts** | Animated chart UI built with shadcn & recharts | [Visit](https://evilcharts.com/) |
+
+---
+
+## 🤖 AI-Powered Tools
+
+UI tools and components enhanced with artificial intelligence
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/ai-elements.png" width="120" alt="AI Elements"/> | **AI Elements** | Component registry for AI-native UI on shadcn/ui | [Visit](https://ai-sdk.dev/elements/overview) |
+
+---
+
+## 📱 Mobile-First UI
+
+UI libraries and components designed for mobile experiences
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/crossbuild-ui.png" width="120" alt="CrossBuild UI"/> | **CrossBuild UI** | React Native UI components optimized for Expo | [Visit](https://www.crossbuildui.com/) |
+
+---
+
+## 🔧 Contribution Guide
+
+We welcome contributions to make this resource list even more valuable!
+
+### How to contribute:
+1. Fork the repository
+2. Add your resource to the appropriate category
+3. Include a 120px wide preview image in the `images/` folder
+4. Use the format: `| <img src="images/filename.png" width="120" alt="Description"/> | Name | Description | [Visit](link) |`
+5. Submit a pull request with a brief description of your addition
+
+### Screenshot guidelines:
+- Ideal size: 1200x630 pixels for nice previews
+- Save to the `images/` folder with a descriptive filename
+- Use the HTML image tag format shown in the tables
+
+---
+
+*Maintained with ❤️ by Al-Hussein*
