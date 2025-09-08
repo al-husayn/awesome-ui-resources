@@ -44,7 +44,6 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | ![motion Primitives](images/motion-prinitives.png) | **Motion Primitives** | UI kit to make beautiful, animated interfaces, faster. Beautifully designed motions components. Easy copy-paste. Customizable. Open Source. Built for engineers and designers. | [Visit](https://motion-primitives.com/) |
 | ![Cult UI](images/cult-ui.png) | **Cult UI** | Free and open source components. Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. | [Visit](https://www.cult-ui.com/) |
 | ![CrossBuild UI](images/crossbuild-ui.png) | **CrossBuild UI** | Build Mobile Apps Faster. Way Faster. Accelerate your React Native Expo development with a library of stunning, ready-to-use UI components  | [Visit](https://www.crossbuildui.com/) |
-| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. [Visit](https://ui-orbit.vercel.app/) |
 | ![Flyon UI](images/flyon-ui.png) | **Flyon UI** |FlyonUI is an open-source Tailwind CSS UI components library with semantic classes and powerful JS plugins. Includes blocks, templates, a Figma design system, and more… | [Visit](https://flyonui.com/) |
 | ![Flowbite](images/Flowbite.png) | **Flowbite** |Build websites even faster with components on top of Tailwind CSS | [Visit](https://flowbite.com/) |
 | ![Preline UI](images/preline-ui.png) | **Preline UI** |Preline UI, crafted with Tailwind CSS | [Visit](https://preline.co/) |
@@ -90,7 +89,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Shadcn Tiptap** |🧩Collection of custom extensions and toolbars for Tiptap editor.Ready to copy & paste and use with shadcn/ui components| [Visit](https://tiptap.niazmorshed.dev/) |
 | **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui Includes headings, paragraphs, lists and more.| [Visit](https://shadcn-prose.vercel.app/) |
 | **E-commerce UI** | A powerful UI library to design e-commerce web sites, online shops & marketplaces with a huge set of components and templates | [Visit](https://ecommerce-ui.com/) |
-
+| **UiOrbit** | Frontend UI Library Hub.Frontend devs! 🚀 Stop hunting for UI libraries everywhere — meet UIOrbit. Discover, compare, and install your next React UI kit faster. [Visit](https://ui-orbit.vercel.app/) |
 ---
 
 ## 🧪 Community and Experimental
