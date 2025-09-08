@@ -89,6 +89,7 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Cook** |🧩An ultra-modern, visually-rich, bento ui using Next.js, PocketBase, shadcd/ui, tailwind css, magic-ui, and zod. [Visit](https://cook.engage-dev.com/) |
 | **Shadcn Tiptap** |🧩Collection of custom extensions and toolbars for Tiptap editor.Ready to copy & paste and use with shadcn/ui components| [Visit](https://tiptap.niazmorshed.dev/) |
 | **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui Includes headings, paragraphs, lists and more.| [Visit](https://shadcn-prose.vercel.app/) |
+| **E-commerce UI** | A powerful UI library to design e-commerce web sites, online shops & marketplaces with a huge set of components and templates | [Visit](https://ecommerce-ui.com/) |
 
 ---
 
