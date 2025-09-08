@@ -80,14 +80,16 @@ A curated list of modern UI libraries, design systems, and tools to speed up you
 | **Shadcn Forms** | 🧩 Build Forms Faster. Create forms with Shadcn, react-hook-form and zod within minutes.| [Visit](https://www.shadcn-form.com/) |
 | **AI Elements** | 🧩 AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster. It provides pre-built components like conversations, messages and more.| [Visit](https://ai-sdk.dev/elements/overview) |
 | **Evil Charts** | 🧩 A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. | [Visit](https://evilcharts.com/) |
- |**Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React. | [visit](https://mynaui.com/)
-| **kutty**  |🧩 Prebuilt Tailwind Components. | [Visit](https://kutty.netlify.app/)
-| **V0** | |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/)
-| **Lina Adaptive Scroll Area** |🧩 The Adaptive Scroll Area for Modern UIs.  | [Visit](https://lina.sameer.sh/)
-| **React Wheel Picker** |🧩iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support. | [Visit](https://react-wheel-picker.chanhdai.com/)
-| **Spaceman RTA** |🧩React theme switching with smooth view transition animations, multi-theme support, and synchronized state management. |[NPM Llink](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) [Visit](https://spaceman-rta-vite.netlify.app/)
-| **Cook** |🧩An ultra-modern, visually-rich, bento ui using Next.js, PocketBase, shadcd/ui, tailwind css, magic-ui, and zod. [Visit](https://cook.engage-dev.com/)
-| **Shadcn Tiptap** | |🧩Collection of custom extensions and toolbars for Tiptap editor.Ready to copy & paste and use with shadcn/ui components| [Visit](https://tiptap.niazmorshed.dev/)
+ |**Myna UI** | 🧩 TailwindCSS and shadcn/ui UI Kit for Figma and React. | [visit](https://mynaui.com/) |
+| **kutty**  |🧩 Prebuilt Tailwind Components. | [Visit](https://kutty.netlify.app/) |
+| **V0** |🧩Turn your ideas into real web apps with v0. Prompt. Refine. Ship. | [Visit](https://v0.app/) |
+| **Lina Adaptive Scroll Area** |🧩 The Adaptive Scroll Area for Modern UIs.  | [Visit](https://lina.sameer.sh/) |
+| **React Wheel Picker** |🧩iOS-like Wheel Picker for React. Smooth inertia scrolling and infinite loop support. | [Visit](https://react-wheel-picker.chanhdai.com/) |
+| **Spaceman RTA** |🧩React theme switching with smooth view transition animations, multi-theme support, and synchronized state management. |[NPM Llink](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) [Visit](https://spaceman-rta-vite.netlify.app/) |
+| **Cook** |🧩An ultra-modern, visually-rich, bento ui using Next.js, PocketBase, shadcd/ui, tailwind css, magic-ui, and zod. [Visit](https://cook.engage-dev.com/) |
+| **Shadcn Tiptap** |🧩Collection of custom extensions and toolbars for Tiptap editor.Ready to copy & paste and use with shadcn/ui components| [Visit](https://tiptap.niazmorshed.dev/) |
+| **shadcn-prose** | A drop-in replacement for @tailwindcss/typography, designed for use with shadcn/ui Includes headings, paragraphs, lists and more.| [Visit](https://shadcn-prose.vercel.app/) |
+
 ---
 
 ## 🧪 Community and Experimental
