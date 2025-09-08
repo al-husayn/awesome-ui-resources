@@ -148,7 +148,7 @@ Collections of icons, SVGs, and design assets
 
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
-| <img src="[images/lucide.png](https://lucide.dev/og.png)" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
+| <img src="images/lucide.png" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
 | <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
 | <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
 
