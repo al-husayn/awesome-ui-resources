@@ -11,6 +11,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
+  - [|  |	**Reshaped** |	Professional design system for React with customizable components and Figma integration |	Visit |](#--reshaped-professional-design-system-for-react-with-customizable-components-and-figma-integration-visit-)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
   - [📚 Learning \& Documentation](#-learning--documentation)
   - [🛠 Development Tools](#-development-tools)
@@ -70,6 +71,8 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/react-wheel-picker.png" width="120" alt="React Wheel Picker"/> | **React Wheel Picker** | iOS-like wheel picker for React with smooth inertia | [Visit](https://react-wheel-picker.chanhdai.com/) |
 | <img src="images/cook.png" width="120" alt="Cook"/> | **Cook** | Ultra-modern bento UI using Next.js, PocketBase, shadcn/ui | [Visit](https://cook.engage-dev.com/) |
 | <img src="images/ecommerce-ui.png" width="120" alt="E-commerce UI"/> | **E-commerce UI** | UI library tailored for e-commerce sites & marketplaces | [Visit](https://ecommerce-ui.com/) |
+| <img src="images/forge-ui.png" width="120" alt="Forge UI"/> |	**Forge UI** |	Production-ready UI components built with Tailwind CSS and React |	[Visit](https://forgeui.in/) |
+
 
 ---
 
@@ -99,7 +102,7 @@ Comprehensive design systems and foundational UI frameworks
 | <img src="images/ant-design.png" width="120" alt="Ant Design"/> | **Ant Design** | Enterprise-grade React UI system | [Visit](https://ant.design/) |
 | <img src="images/shadcn.png" width="120" alt="ShadCN UI"/> | **ShadCN UI** | Tailwind + Radix based components and blocks | [Visit](https://ui.shadcn.com/) |
 | <img src="images/core-ui.png" width="120" alt="CoreUI"/> | **CoreUI** | Admin dashboard components and templates | [Visit](https://coreui.io/) |
-
+| <img src="images/reshaped.png" width="120" alt="Reshaped"/> |	**Reshaped** |	Professional design system for React with customizable components and Figma integration |	[Visit](https://reshaped.so/) |
 ---
 
 ## 🌈 Color & Styling Tools
