@@ -11,7 +11,6 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
-  - [|  |	**Reshaped** |	Professional design system for React with customizable components and Figma integration |	Visit |](#--reshaped-professional-design-system-for-react-with-customizable-components-and-figma-integration-visit-)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
   - [📚 Learning \& Documentation](#-learning--documentation)
   - [🛠 Development Tools](#-development-tools)
@@ -102,7 +101,8 @@ Comprehensive design systems and foundational UI frameworks
 | <img src="images/ant-design.png" width="120" alt="Ant Design"/> | **Ant Design** | Enterprise-grade React UI system | [Visit](https://ant.design/) |
 | <img src="images/shadcn.png" width="120" alt="ShadCN UI"/> | **ShadCN UI** | Tailwind + Radix based components and blocks | [Visit](https://ui.shadcn.com/) |
 | <img src="images/core-ui.png" width="120" alt="CoreUI"/> | **CoreUI** | Admin dashboard components and templates | [Visit](https://coreui.io/) |
-| <img src="images/reshaped.png" width="120" alt="Reshaped"/> |	**Reshaped** |	Professional design system for React with customizable components and Figma integration |	[Visit](https://reshaped.so/) |
+| <img src="images/reshaped.png" width="120" alt="CoreUI"/> | **Reshaped** | Professional design system for React with customizable components and Figma integration | [Visit](https://reshaped.so/) |
+
 ---
 
 ## 🌈 Color & Styling Tools
