@@ -71,6 +71,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/cook.png" width="120" alt="Cook"/> | **Cook** | Ultra-modern bento UI using Next.js, PocketBase, shadcn/ui | [Visit](https://cook.engage-dev.com/) |
 | <img src="images/ecommerce-ui.png" width="120" alt="E-commerce UI"/> | **E-commerce UI** | UI library tailored for e-commerce sites & marketplaces | [Visit](https://ecommerce-ui.com/) |
 | <img src="images/forge-ui.png" width="120" alt="Forge UI"/> |	**Forge UI** |	Production-ready UI components built with Tailwind CSS and React |	[Visit](https://forgeui.in/) |
+| <img src="images/lightswind.png" width="120" alt="Lightswind"/> |	**Lightswind** |	Minimal, lightweight UI component library built with Tailwind CSS |	[Visit](https://lightswind.com/) |
 
 
 ---
