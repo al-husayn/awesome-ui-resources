@@ -130,6 +130,7 @@ Educational resources, blogs, and documentation for UI design
 | **Modern React UI Libraries** | Blog on modern component kits | [Read](https://www.manishtamang.com/blog/modern-react-ui-component-libraries?) |
 | **Components Work** | A directory of components and patterns | [Visit](https://components.work/) |
 | **UiOrbit** | Hub to discover and compare frontend UI libraries | [Visit](https://ui-orbit.vercel.app/) |
+| **Shadcn/ui Cheatsheet** | Quick reference guide for shadcn/ui components and usage | [Visit](https://shadcnstore.com/cheatsheet/) |
 
 ---
 
