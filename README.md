@@ -74,6 +74,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/lightswind.png" width="120" alt="Lightswind"/> |	**Lightswind** |	Minimal, lightweight UI component library built with Tailwind CSS |	[Visit](https://lightswind.com/) |
 | <img src="images/nuxt-ui.png" width="120" alt="Nuxt UI"/> |	**Nuxt UI** |	Complete UI framework for Nuxt with 50+ components, icons, and modules |	[Visit](https://ui.nuxt.com/) |
 | <img src="images/Devsloka-UI.png" width="120" alt="Devsloka UI"/> |	**Devsloka UI** |	Free Tailwind CSS components and blocks for modern interfaces |	[Visit](https://ui.devsloka.in/) |
+| <img src="images/reka_ui.png" width="120" alt="Reka UI"/> |	**Reka UI** |	Beautifully crafted Vue.js components with modern design |	[Visit](https://reka-ui.com/) |
 
 
 ---
