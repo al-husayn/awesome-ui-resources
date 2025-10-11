@@ -106,6 +106,7 @@ Comprehensive design systems and foundational UI frameworks
 | <img src="images/shadcn.png" width="120" alt="ShadCN UI"/> | **ShadCN UI** | Tailwind + Radix based components and blocks | [Visit](https://ui.shadcn.com/) |
 | <img src="images/core-ui.png" width="120" alt="CoreUI"/> | **CoreUI** | Admin dashboard components and templates | [Visit](https://coreui.io/) |
 | <img src="images/reshaped.png" width="120" alt="CoreUI"/> | **Reshaped** | Professional design system for React with customizable components and Figma integration | [Visit](https://reshaped.so/) |
+| <img src="images/radix-vue.png" width="120" alt="Radix Vue"/> | **Radix Vue** | Unstyled, accessible components for Vue.js design systems | [Visit](https://www.radix-vue.com/) |
 
 ---
 
