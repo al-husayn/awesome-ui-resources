@@ -91,6 +91,7 @@ Libraries and tools for creating engaging animations and interactions
 | <img src="images/animejs.png" width="120" alt="AnimeJS"/> | **AnimeJS** | All-in-one JavaScript animation engine | [Visit](https://animejs.com/) |
 | <img src="images/motion-prinitives.png" width="120" alt="Motion Primitives"/> | **Motion Primitives** | Motion-first primitives and kit for interfaces | [Visit](https://motion-primitives.com/) |
 | <img src="images/tailwind-animations.png" width="120" alt="Tailwind CSS Animations"/> | **Tailwind CSS Animations** | Community-powered Tailwind animation plugin/docs | [Visit](https://tailwindcss-animations.vercel.app) |
+| <img src="images/widget-ui.png" width="120" alt="Widget UI"/> | **Widget UI** | The first ever collection of Widgets for the Web. | [Visit](https://wigggle-ui.vercel.app/) |
 
 ---
 
