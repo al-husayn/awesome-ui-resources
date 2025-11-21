@@ -76,7 +76,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/Devsloka-UI.png" width="120" alt="Devsloka UI"/> |	**Devsloka UI** |	Free Tailwind CSS components and blocks for modern interfaces |	[Visit](https://ui.devsloka.in/) |
 | <img src="images/reka_ui.png" width="120" alt="Reka UI"/> |	**Reka UI** |	Beautifully crafted Vue.js components with modern design |	[Visit](https://reka-ui.com/) |
 | <img src="images/Intent-UI.png" width="120" alt="Intent UI"/> |	**Intent UI** |Beautiful components and templates for React, Next.js & Tailwind CSS |	[Visit](https://intentui.com/) |
-
+| <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
 
 ---
 
