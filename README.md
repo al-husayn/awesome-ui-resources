@@ -9,7 +9,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 - [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
-  - [|  |	**Efferd** |Beautiful Shadcn/UI Blocks for Busy \& Smart devs  |	Visit |](#--efferd-beautiful-shadcnui-blocks-for-busy--smart-devs--visit-)
+  - [|  |	**Solace UI** |Free, animated Next.js component library with copy-paste sections and templates  |	Visit |](#--solace-ui-free-animated-nextjs-component-library-with-copy-paste-sections-and-templates--visit-)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
@@ -79,6 +79,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/Intent-UI.png" width="120" alt="Intent UI"/> |	**Intent UI** |Beautiful components and templates for React, Next.js & Tailwind CSS |	[Visit](https://intentui.com/) |
 | <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
 | <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd** |Beautiful Shadcn/UI Blocks for Busy & Smart devs  |	[Visit](https://efferd.com/) |
+| <img src="images/solace-ui.png" width="120" alt="Solace UI"/> |	**Solace UI** |Free, animated Next.js component library with copy-paste sections and templates  |	[Visit](https://www.solaceui.com/) |
 ---
 
 ## 🚀 Animation & Interaction
