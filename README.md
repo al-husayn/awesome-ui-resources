@@ -9,7 +9,6 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 - [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
-  - [|  |	**Blocks** |Clean, modern building blocks. Copy and paste into your apps.  |	Visit |](#--blocks-clean-modern-building-blocks-copy-and-paste-into-your-apps--visit-)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
