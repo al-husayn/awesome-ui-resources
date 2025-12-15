@@ -9,7 +9,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 - [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
-  - [|  |	**Solace UI** |Free, animated Next.js component library with copy-paste sections and templates  |	Visit |](#--solace-ui-free-animated-nextjs-component-library-with-copy-paste-sections-and-templates--visit-)
+  - [|  |	**Blocks** |Clean, modern building blocks. Copy and paste into your apps.  |	Visit |](#--blocks-clean-modern-building-blocks-copy-and-paste-into-your-apps--visit-)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
@@ -80,6 +80,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
 | <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd** |Beautiful Shadcn/UI Blocks for Busy & Smart devs  |	[Visit](https://efferd.com/) |
 | <img src="images/solace-ui.png" width="120" alt="Solace UI"/> |	**Solace UI** |Free, animated Next.js component library with copy-paste sections and templates  |	[Visit](https://www.solaceui.com/) |
+| <img src="images/blocks.png" width="120" alt="Blocks"/> |	**Blocks** |Clean, modern building blocks. Copy and paste into your apps.  |	[Visit](https://blocks.so/) |
 ---
 
 ## 🚀 Animation & Interaction
@@ -94,6 +95,7 @@ Libraries and tools for creating engaging animations and interactions
 | <img src="images/motion-prinitives.png" width="120" alt="Motion Primitives"/> | **Motion Primitives** | Motion-first primitives and kit for interfaces | [Visit](https://motion-primitives.com/) |
 | <img src="images/tailwind-animations.png" width="120" alt="Tailwind CSS Animations"/> | **Tailwind CSS Animations** | Community-powered Tailwind animation plugin/docs | [Visit](https://tailwindcss-animations.vercel.app) |
 | <img src="images/widget-ui.png" width="120" alt="Widget UI"/> | **Widget UI** | The first ever collection of Widgets for the Web. | [Visit](https://wigggle-ui.vercel.app/) |
+| <img src="images/blocks.png" width="120" alt="Blocks"/> |	**Blocks** |Clean, modern building blocks. Copy and paste into your apps.  |	[Visit](https://blocks.so/) |
 
 ---
 
