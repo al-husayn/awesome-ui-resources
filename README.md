@@ -77,6 +77,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/reka_ui.png" width="120" alt="Reka UI"/> |	**Reka UI** |	Beautifully crafted Vue.js components with modern design |	[Visit](https://reka-ui.com/) |
 | <img src="images/Intent-UI.png" width="120" alt="Intent UI"/> |	**Intent UI** |Beautiful components and templates for React, Next.js & Tailwind CSS |	[Visit](https://intentui.com/) |
 | <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
+| <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
 
 ---
 
@@ -163,6 +164,7 @@ Collections of icons, SVGs, and design assets
 | <img src="images/lucide.png" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
 | <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
 | <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
+| <img src="images/animate-icons.png" width="120" alt="icons"/> | **Animate Icons** | Open-source library of animated icons with CSS, JS, and SVG implementations. | [Visit](https://svgl.app/) |
 
 ---
 
