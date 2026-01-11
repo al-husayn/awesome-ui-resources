@@ -79,6 +79,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
 | <img src="images/solace-ui.png" width="120" alt="Solace UI"/> |	**Solace UI** |Free, animated Next.js, tailwindcss, framer motion component library with copy-paste sections and templates |	[Visit](https://www.solaceui.com/) |
 | <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd UI** |Beautiful Shadcn shadcn/ui Blocks for Busy & Smart devs. |	[Visit](https://efferd.com/) |
+| <img src="images/dice-ui.png" width="120" alt="Dice UI"/> |	**Dice UI** |Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.|	[Visit](https://www.diceui.com/) |
 
 ---
 
