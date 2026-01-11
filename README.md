@@ -206,6 +206,7 @@ UI tools and components enhanced with artificial intelligence
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 | <img src="images/ai-elements.png" width="120" alt="AI Elements"/> | **AI Elements** | Component registry for AI-native UI on shadcn/ui | [Visit](https://ai-sdk.dev/elements/overview) |
+| <img src="images/tool-ui.png" width="120" alt="Tool-UI"/> | **Tool-UI** | Beautiful, responsive components specifically designed for building AI tools. Built on Tailwind, Radix, and shadcn/ui. | [Visit](https://www.tool-ui.com/) |
 
 ---
 
