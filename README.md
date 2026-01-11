@@ -16,6 +16,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
   - [🛠 Development Tools](#-development-tools)
   - [✨ Icons \& Assets](#-icons--assets)
   - [🌐 Community Resources](#-community-resources)
+  - [📍 Specialized \& Domain-Specific UI](#-specialized--domain-specific-ui)
   - [🧪 Experimental \& Cutting Edge](#-experimental--cutting-edge)
   - [📊 Data Visualization](#-data-visualization)
   - [🤖 AI-Powered Tools](#-ai-powered-tools)
@@ -179,6 +180,16 @@ Community-driven projects and collaborative resources
 | :--- | :--- | :--- | :--- |
 | <img src="images/ui-verse.png" width="120" alt="UIverse"/> | **UIverse** | Community-made CSS/React/Tailwind components | [Visit](https://uiverse.io/) |
 | <img src="images/vue-bit.png" width="120" alt="Vue Bits"/> | **Vue Bits** | Animated Vue components and bits | [Visit](https://vue-bits.dev/) |
+
+---
+
+## 📍 Specialized & Domain-Specific UI
+
+Libraries and components built for specific application domains (like maps, charts, or e-commerce).
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/mapcn.png" width="120" alt="Map UI"/> | **Map UI** | A collection of beautiful, customizable React map components built with Tailwind CSS. | [Visit](https://www.mapcn.dev/) |
 
 ---
 
