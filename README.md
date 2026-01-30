@@ -78,11 +78,11 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/reka_ui.png" width="120" alt="Reka UI"/> |	**Reka UI** |	Beautifully crafted Vue.js components with modern design |	[Visit](https://reka-ui.com/) |
 | <img src="images/Intent-UI.png" width="120" alt="Intent UI"/> |	**Intent UI** |Beautiful components and templates for React, Next.js & Tailwind CSS |	[Visit](https://intentui.com/) |
 | <img src="images/buttony-ui.png" width="120" alt="Buttony UI"/> |	**Buttony UI** |Specialized collection of beautifully designed button components |	[Visit](https://buttonyui.com/) |
-| <img src="images/solace-ui.png" width="120" alt="Solace UI"/> |	**Solace UI** |Free, animated Next.js, tailwindcss, framer motion component library with copy-paste sections and templates |	[Visit](https://www.solaceui.com/) |
-| <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd UI** |Beautiful Shadcn shadcn/ui Blocks for Busy & Smart devs. |	[Visit](https://efferd.com/) |
-| <img src="images/dice-ui.png" width="120" alt="Dice UI"/> |	**Dice UI** |Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.|	[Visit](https://www.diceui.com/) |
-| <img src="images/coss-ui.png" width="120" alt="coss ui"/> |	**Coss UI** |A new, modern UI component library built on top of Base UI. Built for developers and AI. |	[Visit](https://coss.com/ui/docs) |
-| <img src="images/joy-ui.png" width="120" alt="Joly UI"/> | **Joly UI** |JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. | [Visit](https://www.jolyui.dev/) |
+| <img src="images/solace-ui.png" width="120" alt="Solace UI"/> |	**Solace UI** | Free, animated Next.js, tailwindcss, framer motion component library with copy-paste sections and templates |	[Visit](https://www.solaceui.com/) |
+| <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd UI** | Beautiful Shadcn shadcn/ui Blocks for Busy & Smart devs. |	[Visit](https://efferd.com/) |
+| <img src="images/dice-ui.png" width="120" alt="Dice UI"/> |	**Dice UI** | Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.|	[Visit](https://www.diceui.com/) |
+| <img src="images/coss-ui.png" width="120" alt="coss ui"/> |	**Coss UI** | A new, modern UI component library built on top of Base UI. Built for developers and AI. |	[Visit](https://coss.com/ui/docs) |
+| <img src="images/joy-ui.png" width="120" alt="Joly UI"/> | **Joly UI** | JolyUI is a modern React component library built with TypeScript and Tailwind CSS. | [Visit](https://www.jolyui.dev/) |
 ---
 
 ## 🚀 Animation & Interaction
