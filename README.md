@@ -9,7 +9,7 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 - [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
-  - [|  |	**Joly UI** |JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. |	Visit |](#--joly-ui-jolyui-is-a-modern-react-component-library-built-with-typescript-and-tailwind-css-it-offers-a-wide-range-of-customizable-and-accessible-ui-components-to-help-you-build-stunning-web-applications-quickly-and-efficiently-visit-)
+  - [|  | **Joly UI** | JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. | Visit |](#---joly-ui--jolyui-is-a-modern-react-component-library-built-with-typescript-and-tailwind-css-it-offers-a-wide-range-of-customizable-and-accessible-ui-components-to-help-you-build-stunning-web-applications-quickly-and-efficiently--visit-)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
@@ -83,7 +83,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/efferd.png" width="120" alt="Efferd"/> |	**Efferd UI** |Beautiful Shadcn shadcn/ui Blocks for Busy & Smart devs. |	[Visit](https://efferd.com/) |
 | <img src="images/dice-ui.png" width="120" alt="Dice UI"/> |	**Dice UI** |Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.|	[Visit](https://www.diceui.com/) |
 | <img src="images/coss-ui.png" width="120" alt="coss ui"/> |	**Coss UI** |A new, modern UI component library built on top of Base UI. Built for developers and AI. |	[Visit](https://coss.com/ui/docs) |
-| <img src="images/joy-ui.png" width="120" alt="JolyUI"/> |	**Joly UI** |JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. |	[Visit](https://www.jolyui.dev/) |
+| <img src="images/joy-ui.png" width="120" alt="Joly UI"/> | **Joly UI** | JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. | [Visit](https://www.jolyui.dev/) |
 ---
 
 ## 🚀 Animation & Interaction
