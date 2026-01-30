@@ -9,7 +9,6 @@ A beautifully organized collection of modern UI resources, thoughtfully categori
 - [🌟 Modern UI \& Design Resources Hub](#-modern-ui--design-resources-hub)
   - [📑 Table of Contents](#-table-of-contents)
   - [🎨 UI Libraries \& Components](#-ui-libraries--components)
-  - [|  | **Joly UI** | JolyUI is a modern React component library built with TypeScript and Tailwind CSS. It offers a wide range of customizable and accessible UI components to help you build stunning web applications quickly and efficiently. | Visit |](#---joly-ui--jolyui-is-a-modern-react-component-library-built-with-typescript-and-tailwind-css-it-offers-a-wide-range-of-customizable-and-accessible-ui-components-to-help-you-build-stunning-web-applications-quickly-and-efficiently--visit-)
   - [🚀 Animation \& Interaction](#-animation--interaction)
   - [🎨 Design Systems](#-design-systems)
   - [🌈 Color \& Styling Tools](#-color--styling-tools)
