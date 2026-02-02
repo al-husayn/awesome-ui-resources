@@ -171,6 +171,7 @@ Collections of icons, SVGs, and design assets
 | <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
 | <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
 | <img src="images/animate-icons.png" width="120" alt="icons"/> | **Animate Icons** | Open-source library of animated icons with CSS, JS, and SVG implementations. | [Visit](https://svgl.app/) |
+| <img src="images/joy-icona.png" width="120" alt="icons"/> | **Icona** | Icon library for everyone.  | [Visit](https://www.jolyui.dev/icona) |
 
 ---
 
