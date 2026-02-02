@@ -84,7 +84,9 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/coss-ui.png" width="120" alt="Coss UI" /> | **Coss UI** | Modern UI library built on top of Base UI | [Visit](https://coss.com/ui/docs) |
 | <img src="images/joy-ui.png" width="120" alt="Joly UI" /> | **Joly UI** | Modern React component library using Tailwind CSS | [Visit](https://www.jolyui.dev/) |
 | <img src="images/VengenceUI.png" width="120" alt="VengenceUI" /> | **VengenceUI** | A curated collection of beautifully crafted React components. | [Visit](https://www.vengenceui.com/) |
-| <img src="images/hover.png" width="120" alt="Hover UI" /> | **Hover UI** | Animated UI components and templates for  React,Tailwind CSS,Framer motion logo Framer Motion and more. | [Visit](https://www.hover.dev/) |
+| <img src="images/hover.png" width="120" alt="Hover UI" /> | **Hover UI** | Animated UI components and templates for  React,Tailwind CSS Framer Motion and more. | [Visit](https://www.hover.dev/) |
+| <img src="images/inspira.png" width="120" alt="Inspira UI" /> | **Inspira UI** | A free React component library built with TypeScript and Tailwind CSS, focused on developer experience. | [Visit](https://inspira-ui.com/) |
+
 
 ---
 
