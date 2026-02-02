@@ -1,6 +1,6 @@
 # 🌟 Modern UI & Design Resources Hub
 
-A beautifully organized collection of modern UI resources, thoughtfully categorized for better discovery and usability.
+A beautifully organized collections of modern UI resources, thoughtfully categorized for better discovery and usability.
 
 ---
 
