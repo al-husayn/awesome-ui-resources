@@ -129,6 +129,7 @@ Tools for creating beautiful color palettes and styling systems
 | <img src="images/colors-ui.png" width="120" alt="UI Colors"/> | **UI Colors** | Generate Tailwind color palettes and tones | [Visit](https://uicolors.app/) |
 | <img src="images/shdcn-themes.png" width="120" alt="ShadcnThemes"/> | **ShadcnThemes** | Randomise and tailor shadcn themes | [Visit](https://shadcnthemes.vercel.app/) |
 | <img src="images/tweakcn.png" width="120" alt="Tweakcn"/> | **Tweakcn** | Theme and style tools for shadcn/ui | [Visit](https://tweakcn.com/) |
+| <img src="images/sweep.png" width="120" alt="SWEEP"/> | **SWEEP** | A tool to craft and customize mesmerizing gradient backgrounds with full color control. | [Visit](https://sweep.jolyui.dev/) |
 
 ---
 
