@@ -164,6 +164,7 @@ Tools and utilities to enhance your development workflow
 | <img src="images/shadcn-tiptap.png" width="120" alt="Shadcn Tiptap"/> | **Shadcn Tiptap** | Custom extensions and toolbars for the Tiptap editor | [Visit](https://tiptap.niazmorshed.dev/) |
 | <img src="images/shadcn-prose.png" width="120" alt="shadcn-prose"/> | **shadcn-prose** | Typographic plugin designed for shadcn/ui | [Visit](https://shadcn-prose.vercel.app/) |
 | <img src="images/spaceman-rta.png" width="120" alt="Spaceman RTA"/> | **Spaceman RTA** | Theme switching with smooth view transitions | [NPM](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) / [Visit](https://spaceman-rta-vite.netlify.app/) |
+| <img src="images/FormsCN.png" width="120" alt="FormSCN"/> | **FormSCN** | A visual drag-and-drop form builder designed exclusively for shadcn/ui, supporting React Hook Form and TanStack Form. | [Visit](https://www.formscn.space/) |
 
 ---
 
