@@ -219,6 +219,7 @@ Tools and libraries for creating beautiful data visualizations
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 | <img src="images/evil-charts.png" width="120" alt="Evil Charts"/> | **Evil Charts** | Animated chart UI built with shadcn & recharts | [Visit](https://evilcharts.com/) |
+| <img src="images/terrae.png" width="120" alt="Terrae"/> | **Terrae** | Components, not layers Declarative, composable map components that replace imperative layers with simple props. The perfect companion for React. | [Visit](https://terrae.vercel.app/) |
 
 ---
 
