@@ -235,6 +235,7 @@ UI tools and components enhanced with artificial intelligence
 | :--- | :--- | :--- | :--- |
 | <img src="images/ai-elements.png" width="120" alt="AI Elements"/> | **AI Elements** | Component registry for AI-native UI on shadcn/ui | [Visit](https://ai-sdk.dev/elements/overview) |
 | <img src="images/tool-ui.png" width="120" alt="Tool-UI"/> | **Tool-UI** | Beautiful, responsive components specifically designed for building AI tools. Built on Tailwind, Radix, and shadcn/ui. | [Visit](https://www.tool-ui.com/) |
+| <img src="images/elevenlabs.png" width="120" alt="ElevenLabs UI"/> | **ElevenLabs UI** | Open-source component library for building voice and conversational AI agents, featuring audio visualizers and chat interfaces. | [Visit](https://ui.elevenlabs.io/) |
 
 ---
 
