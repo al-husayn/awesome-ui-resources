@@ -88,6 +88,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/inspira.png" width="120" alt="Inspira UI" /> | **Inspira UI** | A free Vue component library built with TypeScript and Tailwind CSS, focused on developer experience. | [Visit](https://inspira-ui.com/) |
 | <img src="images/primevue.png" width="120" alt="Primevue UI" /> | **PrimeVue UI** | A complete, open-source UI component library for Vue.js with themes, icons, and accessibility. | [Visit](https://primevue.org/) |
 | <img src="images/zen-ui.png" width="120" alt="Zen UI" /> | **Zen UI** | An open-source library of free templates and UI components built for React applications | [Visit](https://zenui.net/) |
+| <img src="images/The Gridcn.png" width="120" alt="The Gridcn" /> | **The Gridcn** | A Tron-inspired theme system for shadcn/ui with 50+ components, 6 Greek god color variants, and Three.js 3D effects | [Visit](https://thegridcn.com/) |
 
 ---
 
