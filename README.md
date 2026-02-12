@@ -21,6 +21,7 @@ A beautifully organized collections of modern UI resources, thoughtfully categor
   - [📊 Data Visualization](#-data-visualization)
   - [🤖 AI-Powered Tools](#-ai-powered-tools)
   - [📱 Mobile-First UI](#-mobile-first-ui)
+  - [🖥️ Backend \& Full-Stack Tools](#️-backend--full-stack-tools)
   - [🔧 Contribution Guide](#-contribution-guide)
     - [How to contribute:](#how-to-contribute)
     - [Screenshot guidelines:](#screenshot-guidelines)
@@ -251,6 +252,14 @@ UI libraries and components designed for mobile experiences
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 | <img src="images/crossbuild-ui.png" width="120" alt="CrossBuild UI"/> | **CrossBuild UI** | React Native UI components optimized for Expo | [Visit](https://www.crossbuildui.com/) |
+
+---
+
+## 🖥️ Backend & Full-Stack Tools
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/serverCN.png" width="120" alt="ServerCN"/> | **ServerCN** | A component registry for building Node.js backends by composition. Inspired by shadcn/ui, it standardizes backend patterns to eliminate boilerplate. | [Visit](https://servercn.vercel.app/) |
 
 ---
 
