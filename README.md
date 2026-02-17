@@ -161,6 +161,7 @@ Educational resources, blogs, and documentation for UI design
 | **Components Work** | A directory of components and patterns | [Visit](https://components.work/) |
 | **UiOrbit** | Hub to discover and compare frontend UI libraries | [Visit](https://ui-orbit.vercel.app/) |
 | **Shadcn/ui Cheatsheet** | Quick reference guide for shadcn/ui components and usage | [Visit](https://shadcnstore.com/cheatsheet/) |
+| **AllShadcn** | A curated directory of 300+ Shadcn templates, components, blocks, and tools to help you discover resources for your next project. | [Visit](https://allshadcn.com/) |
 
 ---
 
