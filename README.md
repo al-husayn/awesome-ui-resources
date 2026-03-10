@@ -279,8 +279,6 @@ UI libraries and components designed for mobile experiences
 ---
 
 
----
-
 ## 🔧 Contribution Guide
 
 We welcome contributions to make this resource list even more valuable!
