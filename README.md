@@ -22,6 +22,7 @@ A beautifully organized collections of modern UI resources, thoughtfully categor
   - [🤖 AI-Powered Tools](#-ai-powered-tools)
   - [📱 Mobile-First UI](#-mobile-first-ui)
   - [🖥️ Backend \& Full-Stack Tools](#️-backend--full-stack-tools)
+  - [🛠️ Project Scaffolding \& Starters](#️-project-scaffolding--starters)
   - [🔧 Contribution Guide](#-contribution-guide)
     - [How to contribute:](#how-to-contribute)
     - [Screenshot guidelines:](#screenshot-guidelines)
@@ -273,6 +274,14 @@ UI libraries and components designed for mobile experiences
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 |<img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> |	**Better Fullstack**	| A CLI that scaffolds production-ready full-stack apps with your choice of 270+ options across TypeScript, Rust, Python, and Go. | [Visit](https://better-fullstack-web.vercel.app/) |
+
+## 🛠️ Project Scaffolding & Starters
+
+| Preview | Name | Description | Link |
+| :--- | :--- | :--- | :--- |
+| <img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> | **Better Fullstack** | A CLI that scaffolds production-ready full-stack apps with your choice of 270+ options across TypeScript, Rust, Python, and Go. | [Visit](https://better-fullstack-web.vercel.app/) |
+
+---
 
 
 ---
