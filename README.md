@@ -274,7 +274,7 @@ UI libraries and components designed for mobile experiences
 
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
-| <img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> | **Better Fullstack** | A CLI that scaffolds production-ready full-stack apps with your choice of 270+ options across TypeScript, Rust, Python, and Go. | [Visit](https://better-fullstack-web.vercel.app/) |
+| <img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> | **Better Fullstack** | A CLI that scaffolds production-ready apps with your preferred tech stack. Choose from 270+ options across 4 ecosystems, frameworks, databases, auth, payments, AI, and more. | [Visit](https://better-fullstack-web.vercel.app/) |
 
 ---
 
