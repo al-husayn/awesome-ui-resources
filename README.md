@@ -97,6 +97,8 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/oat.png" width="120" alt="oat" /> | **Oat** | An ultra-lightweight (~8KB), semantic UI library with zero dependencies. Styles native HTML elements directly, no classes required. | [Visit](https://oat.ink/) |
 | <img src="images/warcraftCN.png" width="120" alt="WarcraftCN" /> | **WarcraftCN** | An open-source set of UI components inspired by classic Warcraft III RTS aesthetics. Copy-paste ready for any framework. | [Visit](https://www.warcraftcn.com/) |
 | <img src="images/UI-Layouts.png" width="120" alt="UI-Layouts" /> | **UI-Layouts** | Beautifully designed sections you can copy and paste straight into your apps. Creatively crafted with Tailwind CSS and shadcn/ui, these blocks are built for real-world React and Next.js projects | [Visit](https://www.ui-layouts.com/) |
+| <img src="images/satisui.png" width="120" alt="SATIS UI" /> | **SATIS UI** | An ever-growing collection of production-grade React components with stunning animations, built on shadcn/ui, GSAP, and Motion. | [Visit](https://satisui.xyz/) |
+
 
 
 
