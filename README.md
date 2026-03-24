@@ -217,6 +217,7 @@ Libraries and components built for specific application domains (like maps, char
 | :--- | :--- | :--- | :--- |
 | <img src="images/table-forge.png" width="120" alt="Table Forge"/> | **Table Forge** | Ready-to-use, accessible table components built with Next.js and Tailwind CSS. Browse examples, preview variations, and copy the JSX in one click.| [Visit](https://table-forge-one.vercel.app/) |
 | <img src="images/tablecraft.png" width="120" alt="TableCraft"/> | **TableCraft** |A production-ready, type-safe React table engine with virtualized rendering for 100k+ rows, advanced filtering, and full TypeScript support.| [Visit](https://react-table-craft.vercel.app/) |
+| <img src="images/PDFx.png" width="120" alt="PDFx"/> | **PDFx** |A copy-paste React component library for building professional PDFs, built on @react-pdf/renderer with 24 components and theme support.| [Visit](https://pdfx.akashpise.dev/) |
 
 ---
 
