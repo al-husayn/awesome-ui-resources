@@ -120,6 +120,7 @@ Libraries and tools for creating engaging animations and interactions
 | <img src="images/widget-ui.png" width="120" alt="Widget UI"/> | **Widget UI** | The first ever collection of Widgets for the Web. | [Visit](https://wigggle-ui.vercel.app/) |
 | <img src="images/blocks.png" width="120" alt="Blocks"/> |	**Blocks** |Clean, modern building blocks. Copy and paste into your apps.  |	[Visit](https://blocks.so/) |
 | <img src="images/motion one.png" width="120" alt="motion"/> | **Motion** | The official website for Motion One, a modern, performant animation library for the web. | [Visit](https://motion.dev/) |
+| <img src="images/svg-studio.png" width="120" alt="SVG Studio"/> | **SVG Studio** | A free, browser-based animation editor for creating keyframe animations on SVGs. Export self-contained animated SVGs with no runtime dependencies. | [Visit](https://www.svgstudio.org/) |
 
 ---
 
