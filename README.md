@@ -100,6 +100,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/satisui.png" width="120" alt="SATIS UI" /> | **SATIS UI** | An ever-growing collection of production-grade React components with stunning animations, built on shadcn/ui, GSAP, and Motion. | [Visit](https://satisui.xyz/) |
 | <img src="images/spell.png" width="120" alt="Spell" /> | **Spell** | A large collection of high-quality, copy-paste React components featuring text marquees, perspective books, shimmer text, and animated checkboxes. | [Visit](https://spell.sh/) |
 | <img src="images/pixelperfect.png" width="120" alt="Pixel Perfect UI" /> | **Pixel Perfect UI** |Build beautiful, responsive interfaces in minutes. A pixel-perfect React component library for modern web apps | [Visit](https://www.pixel-perfect.space/) |
+| <img src="images/scificn-ui.png" width="120" alt="SCIFICN/UI" /> | **SCIFICN/UI** | A retro sci-fi React component library built on Radix UI and Tailwind CSS. Features zero rounded corners, phosphor glow effects, and copy-paste components. | [Visit](https://www.scificn.dev/)
 
 
 
