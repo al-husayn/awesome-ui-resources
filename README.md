@@ -99,6 +99,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/UI-Layouts.png" width="120" alt="UI-Layouts" /> | **UI-Layouts** | Beautifully designed sections you can copy and paste straight into your apps. Creatively crafted with Tailwind CSS and shadcn/ui, these blocks are built for real-world React and Next.js projects | [Visit](https://www.ui-layouts.com/) |
 | <img src="images/satisui.png" width="120" alt="SATIS UI" /> | **SATIS UI** | An ever-growing collection of production-grade React components with stunning animations, built on shadcn/ui, GSAP, and Motion. | [Visit](https://satisui.xyz/) |
 | <img src="images/spell.png" width="120" alt="Spell" /> | **Spell** | A large collection of high-quality, copy-paste React components featuring text marquees, perspective books, shimmer text, and animated checkboxes. | [Visit](https://spell.sh/) |
+| <img src="images/pixelperfect.png" width="120" alt="Pixel Perfect UI" /> | **Pixel Perfect UI** | A React component library featuring unique components like Pixel Credits buttons, animated SVG assets, image trails, and matrix rain decode effects. | [Visit](https://www.pixel-perfect.space/)
 
 
 
