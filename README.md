@@ -103,6 +103,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/scificn-ui.png" width="120" alt="SCIFICN/UI" /> | **SCIFICN/UI** | A retro sci-fi React component library built on Radix UI and Tailwind CSS. Features zero rounded corners, phosphor glow effects, and copy-paste components. | [Visit](https://www.scificn.dev/) |
 | <img src="images/shadcnspace.png" width="120" alt="Shadcn Space" /> | **Shadcn Space** |A platform offering 257+ Shadcn UI blocks, components, templates, and a Figma kit for React/Next.js apps. Free and pro options available. | [Visit](https://shadcnspace.com/) |
 | <img src="images/shadcnstudio.png" width="120" alt="Shadcn Studio" /> | **Shadcn Studio** |A unified platform offering 700+ Shadcn UI blocks, 10+ templates, 1000+ component variants, a Figma design system, and AI tools (theme generator, MCP, Figma-to-code). | [Visit](https://shadcnstudio.com/) |
+| <img src="images/componentry.png" width="120" alt="Componentry" /> | **Componentry** |A free, open-source collection of 40+ animated React components built with Tailwind, TypeScript, and Framer Motion. Includes magnetic dock, matrix rain, particle typography, and more. | [Visit](https://www.componentry.fun/) |
 
 
 
