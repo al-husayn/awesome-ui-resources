@@ -145,6 +145,7 @@ Comprehensive design systems and foundational UI frameworks
 | <img src="images/core-ui.png" width="120" alt="CoreUI"/> | **CoreUI** | Admin dashboard components and templates | [Visit](https://coreui.io/) |
 | <img src="images/reshaped.png" width="120" alt="CoreUI"/> | **Reshaped** | Professional design system for React with customizable components and Figma integration | [Visit](https://reshaped.so/) |
 | <img src="images/radix-vue.png" width="120" alt="Radix Vue"/> | **Radix Vue** | Unstyled, accessible components for Vue.js design systems | [Visit](https://www.radix-vue.com/) |
+| <img src="images/zag.png" width="120" alt="ZagJS"/> | **ZagJS** | A framework-agnostic, headless UI library powered by finite state machines. Provides unstyled, accessible component logic for React, Vue, Solid, and Svelte. | [Visit](https://zagjs.com/) |
 
 ---
 
