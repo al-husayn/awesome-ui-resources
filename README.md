@@ -190,6 +190,7 @@ Tools and utilities to enhance your development workflow
 | <img src="images/spaceman-rta.png" width="120" alt="Spaceman RTA"/> | **Spaceman RTA** | Theme switching with smooth view transitions | [NPM](https://www.npmjs.com/package/@space-man/react-theme-animation?activeTab=readme) / [Visit](https://spaceman-rta-vite.netlify.app/) |
 | <img src="images/FormsCN.png" width="120" alt="FormSCN"/> | **FormSCN** | A visual drag-and-drop form builder designed exclusively for shadcn/ui, supporting React Hook Form and TanStack Form. | [Visit](https://www.formscn.space/) |
 | <img src="images/VibeUI.png" width="120" alt="VibeUI"/> | **VibeUI** | A library of UI prompts for vibe coders. Offers 92 copy-paste prompts across 15 categories for AI-powered UI generation. | [Visit](https://vibeui.online/) |
+| <img src="images/vuzeno.png" width="120" alt="Vuzeno"/> | **Vuzeno** | A Vue component registry. Extends shadcn-vue with production-ready components built for Vue. | [Visit](https://vuzeno.com/) |
 
 ---
 
