@@ -147,6 +147,7 @@ Comprehensive design systems and foundational UI frameworks
 | <img src="images/radix-vue.png" width="120" alt="Radix Vue"/> | **Radix Vue** | Unstyled, accessible components for Vue.js design systems | [Visit](https://www.radix-vue.com/) |
 | <img src="images/zag.png" width="120" alt="ZagJS"/> | **ZagJS** | A framework-agnostic, headless UI library powered by finite state machines. Provides unstyled, accessible component logic for React, Vue, Solid, and Svelte. | [Visit](https://zagjs.com/) |
 | <img src="images/chakra-ui.png" width="120" alt="Chakra UI"/> | **Chakra UI** | A simple, modular, and accessible React component library that provides the building blocks for creating high-quality web apps and design systems. | [Visit](https://chakra-ui.com/) |
+| <img src="images/Park UI.png" width="120" alt="Park UI"/> | **Park UI** | A beautifully designed, framework-agnostic component library built on Ark UI and Panda CSS. Supports React, Solid, and Vue with gorgeous defaults. | [Visit](https://park-ui.com/) |
 
 ---
 
