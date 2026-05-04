@@ -206,7 +206,7 @@ Collections of icons, SVGs, and design assets
 | <img src="images/lucide.png" width="120" alt="Lucide"/> | **Lucide Icons** | Open-source, consistent icon set | [Visit](https://lucide.dev/) |
 | <img src="images/pattern-craft.png" width="120" alt="Pattern Craft"/> | **Pattern Craft** | Beautiful backgrounds and patterns | [Visit](https://patterncraft.fun/) |
 | <img src="images/svg.png" width="120" alt="SVGL"/> | **SVGL** | SVG logos library built with Sveltekit & Tailwind | [Visit](https://svgl.app/) |
-| <img src="images/animate-icons.png" width="120" alt="icons"/> | **Animate Icons** | Open-source library of animated icons with CSS, JS, and SVG implementations. | [Visit](https://svgl.app/) |
+| <img src="images/animate-icons.png" width="120" alt="AnimateIcons"/> | **AnimateIcons** | Open-source library of animated icons with CSS, JS, and SVG implementations.A free, open-source library of 281 animated React icons built with Motion.dev. Tree-shakeable, TypeScript-first, and RSC-ready. | [Visit](https://animateicons.in/) |
 | <img src="images/joy-icona.png" width="120" alt="icons"/> | **Icona** | Icon library for everyone.  | [Visit](https://www.jolyui.dev/icona) |
 | <img src="images/soundcn.png" width="120" alt="soundcn"/> | **SoundCN** | An open-source library of sound effects for modern web apps, installable via the shadcn CLI | [Visit](https://www.soundcn.xyz/) |
 | <img src="images/ShieldCN.png" width="120" alt="ShieldCN"/> | **ShieldCN** | A shields.io alternative that generates beautiful README badges using shadcn/ui styling. Offers 6 variants, 16 themes, and 30,000+ icons. | [Visit](https://www.shieldcn.dev/) |
