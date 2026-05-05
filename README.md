@@ -104,6 +104,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/shadcnspace.png" width="120" alt="Shadcn Space" /> | **Shadcn Space** |A platform offering 257+ Shadcn UI blocks, components, templates, and a Figma kit for React/Next.js apps. Free and pro options available. | [Visit](https://shadcnspace.com/) |
 | <img src="images/shadcnstudio.png" width="120" alt="Shadcn Studio" /> | **Shadcn Studio** |A unified platform offering 700+ Shadcn UI blocks, 10+ templates, 1000+ component variants, a Figma design system, and AI tools (theme generator, MCP, Figma-to-code). | [Visit](https://shadcnstudio.com/) |
 | <img src="images/componentry.png" width="120" alt="Componentry" /> | **Componentry** |A free, open-source collection of 40+ animated React components built with Tailwind, TypeScript, and Framer Motion. Includes magnetic dock, matrix rain, particle typography, and more. | [Visit](https://www.componentry.fun/) |
+| <img src="images/shadcn-ui-kit.png" width="120" alt="Shadcn UI Kit" /> | **Shadcn UI Kit** | A paid collection featuring 12 admin dashboards, 700+ components/blocks, website templates, and a theme generator. Built for shadcn/ui, Tailwind CSS, and React. | [Visit](https://shadcnuikit.com/) |
 
 
 
