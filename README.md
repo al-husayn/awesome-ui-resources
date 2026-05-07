@@ -106,6 +106,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/componentry.png" width="120" alt="Componentry" /> | **Componentry** |A free, open-source collection of 40+ animated React components built with Tailwind, TypeScript, and Framer Motion. Includes magnetic dock, matrix rain, particle typography, and more. | [Visit](https://www.componentry.fun/) |
 | <img src="images/shadcn-ui-kit.png" width="120" alt="Shadcn UI Kit" /> | **Shadcn UI Kit** | A paid collection featuring 12 admin dashboards, 700+ components/blocks, website templates, and a theme generator. Built for shadcn/ui, Tailwind CSS, and React. | [Visit](https://shadcnuikit.com/) |
 | <img src="images/Shadcn-blocks.png" width="120" alt="Shadcnblocks" /> | **Shadcnblocks** | A premium collection of 1,524 blocks, 1,189 components, and 15 templates built for shadcn/ui, Tailwind CSS, and React, with a free theme builder and Figma kit. | [Visit](https://www.shadcnblocks.com/) |
+| <img src="images/aceternity-ui.png" width="120" alt="Aceternity UI" /> | **Aceternity UI** | Beautiful, modern UI templates and components | [Visit](https://ui.aceternity.com/) |
 
 
 
@@ -236,6 +237,7 @@ Libraries and components built for specific application domains (like maps, char
 | <img src="images/table-forge.png" width="120" alt="Table Forge"/> | **Table Forge** | Ready-to-use, accessible table components built with Next.js and Tailwind CSS. Browse examples, preview variations, and copy the JSX in one click.| [Visit](https://table-forge-one.vercel.app/) |
 | <img src="images/tablecraft.png" width="120" alt="TableCraft"/> | **TableCraft** |A production-ready, type-safe React table engine with virtualized rendering for 100k+ rows, advanced filtering, and full TypeScript support.| [Visit](https://react-table-craft.vercel.app/) |
 | <img src="images/PDFx.png" width="120" alt="PDFx"/> | **PDFx** |A copy-paste React component library for building professional PDFs, built on @react-pdf/renderer with 24 components and theme support.| [Visit](https://pdfx.akashpise.dev/) |
+| <img src="images/termcn.png" width="120" alt="TermCN"/> | **TermCN** |A React component library for building modern, interactive terminal UIs. Built on Ink, with 100+ shadcn/ui-style components.| [Visit](https://www.termcn.dev/) |
 
 ---
 
