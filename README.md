@@ -238,6 +238,7 @@ Libraries and components built for specific application domains (like maps, char
 | <img src="images/tablecraft.png" width="120" alt="TableCraft"/> | **TableCraft** |A production-ready, type-safe React table engine with virtualized rendering for 100k+ rows, advanced filtering, and full TypeScript support.| [Visit](https://react-table-craft.vercel.app/) |
 | <img src="images/PDFx.png" width="120" alt="PDFx"/> | **PDFx** |A copy-paste React component library for building professional PDFs, built on @react-pdf/renderer with 24 components and theme support.| [Visit](https://pdfx.akashpise.dev/) |
 | <img src="images/termcn.png" width="120" alt="TermCN"/> | **TermCN** |A React component library for building modern, interactive terminal UIs. Built on Ink, with 100+ shadcn/ui-style components.| [Visit](https://www.termcn.dev/) |
+| <img src="images/shadcn-admin-kit.png" width="120" alt="Shadcn Admin Kit"/> | **Shadcn Admin Kit** |An open‑source component kit for building B2B apps, admin panels, and dashboards. Includes CRUD pages, data tables, forms, auth, i18n, and works with any backend (REST/GraphQL).| [Visit](https://marmelab.com/shadcn-admin-kit/) |
 
 ---
 
