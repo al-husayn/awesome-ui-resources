@@ -107,6 +107,7 @@ Modern UI component libraries and kits for building beautiful interfaces
 | <img src="images/shadcn-ui-kit.png" width="120" alt="Shadcn UI Kit" /> | **Shadcn UI Kit** | A paid collection featuring 12 admin dashboards, 700+ components/blocks, website templates, and a theme generator. Built for shadcn/ui, Tailwind CSS, and React. | [Visit](https://shadcnuikit.com/) |
 | <img src="images/Shadcn-blocks.png" width="120" alt="Shadcnblocks" /> | **Shadcnblocks** | A premium collection of 1,524 blocks, 1,189 components, and 15 templates built for shadcn/ui, Tailwind CSS, and React, with a free theme builder and Figma kit. | [Visit](https://www.shadcnblocks.com/) |
 | <img src="images/sveltebits.png" width="120" alt="Svelte Bits" /> | **Svelte Bits** | An open-source collection of animated, interactive, and fully customizable Svelte components. An official Svelte port of React Bits. | [Visit](sveltebits.xyz) |
+| <img src="images/iconiq.png" width="120" alt="Iconiqui" /> | **Iconiq UI** | An open‑source collection of interactive UI components and animated icons. Includes motion‑powered elements like hover flip cards and cursor effects, built with Motion and based on Lucide icons. | [Visit](sveltebits.xyz) |
 
 
 
