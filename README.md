@@ -183,6 +183,7 @@ Educational resources, blogs, and documentation for UI design
 | **UiOrbit** | Hub to discover and compare frontend UI libraries | [Visit](https://ui-orbit.vercel.app/) |
 | **Shadcn/ui Cheatsheet** | Quick reference guide for shadcn/ui components and usage | [Visit](https://shadcnstore.com/cheatsheet/) |
 | **AllShadcn** | A curated directory of 300+ Shadcn templates, components, blocks, and tools to help you discover resources for your next project. | [Visit](https://allshadcn.com/) |
+| **Shoogle** | A focused, community-driven search engine for shadcn/ui. Quickly discover blocks, components, and UI patterns across multiple registries without jumping between sites. | [Visit](https://shoogle.dev/) |
 
 ---
 
