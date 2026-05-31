@@ -235,6 +235,7 @@ Libraries and components built for specific application domains (maps, admin pan
 | <img src="images/shadcn-admin-kit.png" width="120" alt="Shadcn Admin Kit"/> | **Shadcn Admin Kit** | An open‑source component kit for building B2B apps, admin panels, and dashboards. Includes CRUD, data tables, forms, auth, i18n. | [Visit](https://marmelab.com/shadcn-admin-kit/) |
 | <img src="images/terrae.png" width="120" alt="Terrae"/> | **Terrae** | Declarative, composable map components for React. Replace imperative layers with simple props. | [Visit](https://terrae.vercel.app/) |
 | <img src="images/mapcn.png" width="120" alt="Mapcn"/> | **Mapcn** | A collection of beautiful, customizable React map components built with Tailwind CSS. | [Visit](https://www.mapcn.dev/) |
+| <img src="images/opentui.png" width="120" alt="OpenTUI"/> | **OpenTUI** |A high-performance, framework-agnostic engine for building terminal UIs (TUIs). Features a native Zig core, first-class React & Solid bindings, and pre-built components. | [Visit](https://opentui.com/) |
 
 ---
 
