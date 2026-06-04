@@ -237,6 +237,7 @@ Libraries and components built for specific application domains (maps, admin pan
 | <img src="images/terrae.png" width="120" alt="Terrae"/> | **Terrae** | Declarative, composable map components for React. Replace imperative layers with simple props. | [Visit](https://terrae.vercel.app/) |
 | <img src="images/mapcn.png" width="120" alt="Mapcn"/> | **Mapcn** | A collection of beautiful, customizable React map components built with Tailwind CSS. | [Visit](https://www.mapcn.dev/) |
 | <img src="images/opentui.png" width="120" alt="OpenTUI"/> | **OpenTUI** |A high-performance, framework-agnostic engine for building terminal UIs (TUIs). Features a native Zig core, first-class React & Solid bindings, and pre-built components. | [Visit](https://opentui.com/) |
+| <img src="images/dot-matrix.png" width="120" alt="Dotmatrix"/> | **Dotmatrix** | A collection of 55+ free and open-source loading animations. Built with React, TypeScript, Tailwind CSS, and shadcn. | [Visit](https://opentui.com/) |
 
 ---
 
