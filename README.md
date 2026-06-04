@@ -106,6 +106,7 @@ Modern UI component libraries and kits for building beautiful interfaces.
 | <img src="images/shadcn-ui-kit.png" width="120" alt="Shadcn UI Kit"/> | **Shadcn UI Kit** | A paid collection featuring 12 admin dashboards, 700+ components/blocks, website templates, and a theme generator. Built for shadcn/ui, Tailwind CSS, and React. | [Visit](https://shadcnuikit.com/) |
 | <img src="images/sveltebits.png" width="120" alt="Svelte Bits"/> | **Svelte Bits** | An open-source collection of animated, interactive, and fully customizable Svelte components. An official Svelte port of React Bits. | [Visit](https://sveltebits.xyz) |
 | <img src="images/iconiq.png" width="120" alt="Iconiqui"/> | **Iconiqui** | An open‑source collection of interactive UI components and animated icons. Includes motion‑powered elements like hover flip cards and cursor effects, built with Motion and based on Lucide icons. | [Visit](https://iconiqui.com/) |
+| <img src="images/neonblade-ui.png" width="120" alt="NeonBlade UI"/> | **NeonBlade UI** | A free, open-source React library for building futuristic interfaces with neon aesthetics, sharp edges, and full design control. | [Visit](https://neonbladeui.neuronrush.com/) |
 
 ---
 
