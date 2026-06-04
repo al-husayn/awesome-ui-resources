@@ -107,6 +107,7 @@ Modern UI component libraries and kits for building beautiful interfaces.
 | <img src="images/sveltebits.png" width="120" alt="Svelte Bits"/> | **Svelte Bits** | An open-source collection of animated, interactive, and fully customizable Svelte components. An official Svelte port of React Bits. | [Visit](https://sveltebits.xyz) |
 | <img src="images/iconiq.png" width="120" alt="Iconiqui"/> | **Iconiqui** | An open‑source collection of interactive UI components and animated icons. Includes motion‑powered elements like hover flip cards and cursor effects, built with Motion and based on Lucide icons. | [Visit](https://iconiqui.com/) |
 | <img src="images/neonblade-ui.png" width="120" alt="NeonBlade UI"/> | **NeonBlade UI** | A free, open-source React library for building futuristic interfaces with neon aesthetics, sharp edges, and full design control. | [Visit](https://neonbladeui.neuronrush.com/) |
+| <img src="images/shark-ui.png" width="120" alt="Shark UI"/> | **Shark UI** | A multi‑framework component library with 90+ accessible components for React, Solid, Vue, and Svelte. Helps you build reusable, scalable design systems. | [Visit](https://shark.vini.one/) |
 
 ---
 
@@ -237,7 +238,7 @@ Libraries and components built for specific application domains (maps, admin pan
 | <img src="images/terrae.png" width="120" alt="Terrae"/> | **Terrae** | Declarative, composable map components for React. Replace imperative layers with simple props. | [Visit](https://terrae.vercel.app/) |
 | <img src="images/mapcn.png" width="120" alt="Mapcn"/> | **Mapcn** | A collection of beautiful, customizable React map components built with Tailwind CSS. | [Visit](https://www.mapcn.dev/) |
 | <img src="images/opentui.png" width="120" alt="OpenTUI"/> | **OpenTUI** |A high-performance, framework-agnostic engine for building terminal UIs (TUIs). Features a native Zig core, first-class React & Solid bindings, and pre-built components. | [Visit](https://opentui.com/) |
-| <img src="images/dot-matrix.png" width="120" alt="Dotmatrix"/> | **Dotmatrix** | A collection of 55+ free and open-source loading animations. Built with React, TypeScript, Tailwind CSS, and shadcn. | [Visit](https://opentui.com/) |
+| <img src="images/dot-matrix.png" width="120" alt="Dotmatrix"/> | **Dotmatrix** | A collection of 55+ free and open-source loading animations. Built with React, TypeScript, Tailwind CSS, and shadcn. | [Visit](https://dotmatrix.zzzzshawn.cloud/) |
 
 ---
 
