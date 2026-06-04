@@ -296,6 +296,7 @@ Tools for backend and full-stack development.
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
 | <img src="images/serverCN.png" width="120" alt="ServerCN"/> | **ServerCN** | A component registry for building Node.js backends by composition. Inspired by shadcn/ui, it standardizes backend patterns to eliminate boilerplate. | [Visit](https://servercn.vercel.app/) |
+| <img src="images/pushduck.png" width="120" alt="Pushduck"/> | **Pushduck** | A type-safe, universal file upload library with zero vendor lock-in. Includes a CLI for seamless setup, supports any S3 provider, and works across 16+ frameworks (Next.js, Hono, Express, Cloudflare Workers, etc.). | [Visit](https://pushduck.dev/) |
 
 ---
 
