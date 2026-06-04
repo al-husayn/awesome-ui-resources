@@ -240,6 +240,7 @@ Libraries and components built for specific application domains (maps, admin pan
 | <img src="images/mapcn.png" width="120" alt="Mapcn"/> | **Mapcn** | A collection of beautiful, customizable React map components built with Tailwind CSS. | [Visit](https://www.mapcn.dev/) |
 | <img src="images/opentui.png" width="120" alt="OpenTUI"/> | **OpenTUI** |A high-performance, framework-agnostic engine for building terminal UIs (TUIs). Features a native Zig core, first-class React & Solid bindings, and pre-built components. | [Visit](https://opentui.com/) |
 | <img src="images/dot-matrix.png" width="120" alt="Dotmatrix"/> | **Dotmatrix** | A collection of 55+ free and open-source loading animations. Built with React, TypeScript, Tailwind CSS, and shadcn. | [Visit](https://dotmatrix.zzzzshawn.cloud/) |
+| <img src="images/teul.png" width="120" alt="Teul"/> | **Teul** | An opinionated 12‑column grid system for React and Tailwind. Provides Grid and GridItem components with type‑safe responsive props. No runtime, no dependencies, copy‑paste install via shadcn CLI. | [Visit](https://teul.joohyun.dev/) |
 
 ---
 
