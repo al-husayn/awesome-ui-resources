@@ -126,6 +126,7 @@ Libraries and tools for creating engaging animations and interactions.
 | <img src="images/motion one.png" width="120" alt="Motion"/> | **Motion** | The official website for Motion One, a modern, performant animation library for the web. | [Visit](https://motion.dev/) |
 | <img src="images/svg-studio.png" width="120" alt="SVG Studio"/> | **SVG Studio** | A free, browser-based animation editor for creating keyframe animations on SVGs. Export self-contained animated SVGs with no runtime dependencies. | [Visit](https://www.svgstudio.org/) |
 | <img src="images/remocn.png" width="120" alt="Remocn"/> | **Remocn** | A copy‑paste component registry for Remotion that provides 64+ production‑ready motion components. Includes text animations, transitions, UI blocks, and full scene compositions for building cinematic videos with React. | [Visit](https://remocn.dev/) |
+| <img src="images/transition.png" width="120" alt="Transitions.dev"/> | **Transitions.dev** | A collection of the most essential copy‑paste transitions for web apps – cards, menus, notifications, toggles, modals and other micro‑interactions built with portable CSS snippets. | [Visit](https://transitions.dev/) |
 
 ---
 
