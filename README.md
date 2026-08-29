@@ -250,6 +250,7 @@ Libraries and components built for specific application domains (maps, admin pan
 | <img src="images/teul.png" width="120" alt="Teul"/> | **Teul** | An opinionated 12‑column grid system for React and Tailwind. Provides Grid and GridItem components with type‑safe responsive props. No runtime, no dependencies, copy‑paste install via shadcn CLI. | [Visit](https://teul.joohyun.dev/) |
 | <img src="images/ShadcnDashboard.png" width="120" alt="Shadcn Dashboard"/> | **Shadcn Dashboard** | A production‑ready dashboard kit with reusable UI blocks, components, and AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI, includes MCP Server and CLI. | [Visit](https://shadcndashboard.dev/) |
 | <img src="images/Flagcn.png" width="120" alt="Flagcn"/> | **Flagcn** | A 306-component catalog of accessible React flags for shadcn/ui. Supports SVG, PNG, WebP, and JPEG with 4:3 and 1:1 frames. Copy‑paste or install via CLI. MIT licensed. | [Visit](https://flagcn.dev/) |
+| <img src="images/EditorCN.png" width="120" alt="EditorCN"/> | **EditorCN** | React rich text editor components built on Tiptap and shadcn/ui. Offers a traditional toolbar editor (20+ controls) and a Notion-style block editor with slash commands, drag handles, and tables. MIT licensed. | [Visit](https://editorcn.vercel.app/) |
 
 ---
 
