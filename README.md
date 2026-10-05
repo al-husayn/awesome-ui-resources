@@ -187,6 +187,7 @@ Educational resources, blogs, and documentation for UI design.
 | **Shadcn/ui Cheatsheet** | Quick reference guide for shadcn/ui components and usage | [Visit](https://shadcnstore.com/cheatsheet/) |
 | **AllShadcn** | A curated directory of 300+ Shadcn templates, components, blocks, and tools | [Visit](https://allshadcn.com/) |
 | **Shoogle** | A focused, community-driven search engine for shadcn/ui. Discover blocks, components, and UI patterns across multiple registries. | [Visit](https://shoogle.dev/) |
+| **FrontendAtlas Machine Coding** | Frontend UI coding interview practice for React, Angular, and Vue, with rubrics and guided study plans | [Visit](https://frontendatlas.com/machine-coding) |
 
 ---
 
