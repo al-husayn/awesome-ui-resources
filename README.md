@@ -109,7 +109,7 @@ Modern UI component libraries and kits for building beautiful interfaces.
 | <img src="images/neonblade-ui.png" width="120" alt="NeonBlade UI"/> | **NeonBlade UI** | A free, open-source React library for building futuristic interfaces with neon aesthetics, sharp edges, and full design control. | [Visit](https://neonbladeui.neuronrush.com/) |
 | <img src="images/shark-ui.png" width="120" alt="Shark UI"/> | **Shark UI** | A multi‑framework component library with 90+ accessible components for React, Solid, Vue, and Svelte. Helps you build reusable, scalable design systems. | [Visit](https://shark.vini.one/) |
 | <img src="images/shadcn-io.png" width="120" alt="Shadcn.io"/> | **Shadcn.io** | A community-driven component registry and library with 6,000+ blocks, 285k+ icons, and 59 themes for shadcn/ui. Features AI-native tools, MCP integration, and DESIGN.md files for AI-assisted development. Not affiliated with the official shadcn/ui. | [Visit](https://www.shadcn.io/) |
-| <img src="images/JetRockets-ui.png" width="120" alt="JetRockets UI"/> | **JetRockets UI** | A comprehensive Rails UI component library built with ViewComponent, TailwindCSS 4.0, and Stimulus. Provides reusable, accessible, and customizable components for Rails applications. | [Visit](https://ui.jetrockets.com/ui) |
+| <img src="images/JetRockets-UI.png" width="120" alt="JetRockets UI"/> | **JetRockets UI** | A comprehensive Rails UI component library built with ViewComponent, TailwindCSS 4.0, and Stimulus. Provides reusable, accessible, and customizable components for Rails applications. | [Visit](https://ui.jetrockets.com/ui) |
 
 ---
 
@@ -130,6 +130,7 @@ Libraries and tools for creating engaging animations and interactions.
 | <img src="images/remocn.png" width="120" alt="Remocn"/> | **Remocn** | A copy‑paste component registry for Remotion that provides 64+ production‑ready motion components. Includes text animations, transitions, UI blocks, and full scene compositions for building cinematic videos with React. | [Visit](https://remocn.dev/) |
 | <img src="images/transition.png" width="120" alt="Transitions.dev"/> | **Transitions.dev** | A collection of the most essential copy‑paste transitions for web apps – cards, menus, notifications, toggles, modals and other micro‑interactions built with portable CSS snippets. | [Visit](https://transitions.dev/) |
 | <img src="images/feral-ui.png" width="120" alt="Feral UI"/> | **Feral UI** | A playful, physics-driven React component library featuring a pull-cord theme switcher, a claw-machine CAPTCHA, and dynamic gradient tools  and more| [Visit](https://feralui.dev/) |
+| <img src="images/ease-ui.png" width="120" alt="Ease UI"/> | **Ease UI** | A set of React components with easing and spring motion already tuned. Install via shadcn CLI, no package dependency. Includes animated primitives like morphing search, dynamic island, and hold‑to‑confirm.| [Visit](https://easeui.dev/) |
 
 
 
@@ -319,7 +320,7 @@ CLI tools and starters for bootstrapping full projects.
 
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
-| <img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> | **Better Fullstack** | A CLI that scaffolds production-ready apps with your preferred tech stack. Choose from 270+ options across 4 ecosystems. | [Visit](https://better-fullstack-web.vercel.app/) |
+| <img src="images/better-fullstack.png" width="120" alt="Better Fullstack"/> | **Better Fullstack** | A CLI that scaffolds production-ready apps with your preferred tech stack. Choose from 270+ options across 4 ecosystems. | [Visit](https://better-fullstack.dev/) |
 
 ---
 
@@ -334,6 +335,7 @@ We welcome contributions to make this resource list even more valuable!
 4. Use the format:  
    ```html
    | <img src="images/filename.png" width="120" alt="Description"/> | Name | Description | [Visit](link) |
+   ```
 5. Submit a pull request with a brief description of your addition
 
 ### Screenshot guidelines:
