@@ -131,6 +131,7 @@ Libraries and tools for creating engaging animations and interactions.
 | <img src="images/transition.png" width="120" alt="Transitions.dev"/> | **Transitions.dev** | A collection of the most essential copy‑paste transitions for web apps – cards, menus, notifications, toggles, modals and other micro‑interactions built with portable CSS snippets. | [Visit](https://transitions.dev/) |
 | <img src="images/feral-ui.png" width="120" alt="Feral UI"/> | **Feral UI** | A playful, physics-driven React component library featuring a pull-cord theme switcher, a claw-machine CAPTCHA, and dynamic gradient tools  and more| [Visit](https://feralui.dev/) |
 | <img src="images/ease-ui.png" width="120" alt="Ease UI"/> | **Ease UI** | A set of React components with easing and spring motion already tuned. Install via shadcn CLI, no package dependency. Includes animated primitives like morphing search, dynamic island, and hold‑to‑confirm.| [Visit](https://easeui.dev/) |
+| <img src="images/qodesign-free.png" width="120" alt="qodesign-free"/> | **qodesign-free** | Free, MIT-licensed animated React components and two full dashboards built with TypeScript, Tailwind CSS and Framer Motion. Each piece installs with the shadcn CLI or works as a single HTML file. Paid catalog at qodesign.dev. | [Visit](https://github.com/teodoravadani/qodesign-free) |
 
 
 
