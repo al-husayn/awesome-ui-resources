@@ -221,6 +221,7 @@ Collections of icons, SVGs, and design assets.
 | <img src="images/joy-icona.png" width="120" alt="Icona"/> | **Icona** | Icon library for everyone. 200+ collections, 50,000+ icons with built-in SVG editor. | [Visit](https://www.jolyui.dev/icona) |
 | <img src="images/soundcn.png" width="120" alt="soundcn"/> | **SoundCN** | An open-source library of sound effects for modern web apps, installable via the shadcn CLI. | [Visit](https://www.soundcn.xyz/) |
 | <img src="images/ShieldCN.png" width="120" alt="ShieldCN"/> | **ShieldCN** | A shields.io alternative that generates beautiful README badges using shadcn/ui styling. Offers 6 variants, 16 themes, and 30,000+ icons. | [Visit](https://www.shieldcn.dev/) |
+| <img src="images/applore.png" width="120" alt="APPLORE"/> | **APPLORE** | App icon inspiration library: 18,000+ real App Store and Google Play icons with every past version archived, plus AI app icon tools. | [Visit](https://applore.app/) |
 
 ---
 
