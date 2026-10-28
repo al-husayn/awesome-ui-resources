@@ -230,6 +230,7 @@ Community-driven projects and collaborative resources.
 
 | Preview | Name | Description | Link |
 | :--- | :--- | :--- | :--- |
+| <img src="images/design-details.png" width="120" alt="Design Details"/> | **Design Details** | A free searchable library of real website designs with full-page captures, motion recordings, typography, and color breakdowns. | [Visit](https://designdetails.io/) |
 | <img src="images/ui-verse.png" width="120" alt="UIverse"/> | **UIverse** | Community-made CSS/React/Tailwind components | [Visit](https://uiverse.io/) |
 | <img src="images/vue-bit.png" width="120" alt="Vue Bits"/> | **Vue Bits** | Animated Vue components and bits | [Visit](https://vue-bits.dev/) |
 
