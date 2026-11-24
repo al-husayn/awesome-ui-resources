@@ -289,6 +289,7 @@ UI tools and components enhanced with artificial intelligence.
 | <img src="images/elevenlabs.png" width="120" alt="ElevenLabs UI"/> | **ElevenLabs UI** | Open-source component library for building voice and conversational AI agents, featuring audio visualizers and chat interfaces. | [Visit](https://ui.elevenlabs.io/) |
 | <img src="images/typeUI.png" width="120" alt="TypeUI"/> | **TypeUI** | An open-source CLI and registry that gives AI agents (Cursor, Claude Code, Codex) a structured design system to follow. | [Visit](https://www.typeui.sh/) |
 | <img src="images/blocks.png" width="120" alt="Blocks"/> | **Blocks** | AI tool that generates website blocks, pages, and entire sites from prompts. | [Visit](https://blocks.so/) |
+| <img src="images/kite.png" width="120" alt="Kite"/> | **Kite** | Design tool your AI agents and team share: Claude, Cursor or Codex connect via hosted MCP and draw real, editable layers; copy to Figma or export HTML/React/Tailwind. Free plan. | [Visit](https://kite.new) |
 
 ---
 
